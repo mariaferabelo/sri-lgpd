@@ -50,14 +50,13 @@ Construir um SRI funcional que:
 
 
 ## Tecnologias Utilizadas
-
 - **Linguagem**: Python
 - **Bibliotecas**:
   - `re` (expressões regulares)
-  - `json` / `pickle` (persistência)
+  - `json` (persistência)
   - `numpy` (cálculo de similaridade)
-  - `tkinter` ou `streamlit` (interface gráfica)
-- **Formato de dados**: JSON ou estruturas em memória com persistência
+  - `tkinter` (interface gráfica)
+- **Formato de dados**: JSON.
 
 ## Base de Dados
 
