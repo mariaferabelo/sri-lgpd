@@ -1,0 +1,4231 @@
+{
+    "indice_invertido": {
+        "globalização": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "desenvolvimento": {
+            "Artigo_01.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_20.json": 1
+        },
+        "tecnologias": {
+            "Artigo_01.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "desenvolve": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "competição": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "voraz": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "empresas": {
+            "Artigo_01.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 5,
+            "Artigo_10.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_20.json": 7
+        },
+        "desenvolvendo": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "questionamentos": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "segurança": {
+            "Artigo_01.json": 1,
+            "Artigo_02.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_09.json": 3,
+            "Artigo_16.json": 1,
+            "Artigo_20.json": 5
+        },
+        "informações": {
+            "Artigo_01.json": 2,
+            "Artigo_04.json": 2,
+            "Artigo_09.json": 1,
+            "Artigo_10.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 2
+        },
+        "corporativas": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 1
+        },
+        "clientes": {
+            "Artigo_01.json": 1,
+            "Artigo_20.json": 2
+        },
+        "apesar": {
+            "Artigo_01.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_19.json": 1
+        },
+        "entrar": {
+            "Artigo_01.json": 1,
+            "Artigo_13.json": 1
+        },
+        "vigor": {
+            "Artigo_01.json": 1,
+            "Artigo_13.json": 1
+        },
+        "evidente": {
+            "Artigo_01.json": 1
+        },
+        "discute": {
+            "Artigo_01.json": 1
+        },
+        "literatura": {
+            "Artigo_01.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_20.json": 1
+        },
+        "adaptabilidade": {
+            "Artigo_01.json": 1
+        },
+        "tecnologia": {
+            "Artigo_01.json": 3,
+            "Artigo_09.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_19.json": 1
+        },
+        "informação": {
+            "Artigo_01.json": 3,
+            "Artigo_09.json": 1,
+            "Artigo_19.json": 1
+        },
+        "lgpd": {
+            "Artigo_01.json": 3,
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 3,
+            "Artigo_04.json": 2,
+            "Artigo_05.json": 3,
+            "Artigo_07.json": 3,
+            "Artigo_08.json": 3,
+            "Artigo_09.json": 3,
+            "Artigo_10.json": 2,
+            "Artigo_11.json": 3,
+            "Artigo_12.json": 4,
+            "Artigo_13.json": 7,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 6,
+            "Artigo_16.json": 3,
+            "Artigo_17.json": 3,
+            "Artigo_18.json": 4,
+            "Artigo_19.json": 1,
+            "Artigo_20.json": 1
+        },
+        "traz": {
+            "Artigo_01.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_08.json": 1
+        },
+        "insegurança": {
+            "Artigo_01.json": 1
+        },
+        "jurídica": {
+            "Artigo_01.json": 1
+        },
+        "será": {
+            "Artigo_01.json": 1
+        },
+        "aplicabilidade": {
+            "Artigo_01.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_09.json": 1
+        },
+        "lei": {
+            "Artigo_01.json": 3,
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 1,
+            "Artigo_04.json": 5,
+            "Artigo_05.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 4,
+            "Artigo_09.json": 3,
+            "Artigo_10.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_13.json": 2,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 2,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 3,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 2
+        },
+        "atitudes": {
+            "Artigo_01.json": 1
+        },
+        "devem": {
+            "Artigo_01.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_17.json": 1
+        },
+        "tomadas": {
+            "Artigo_01.json": 1,
+            "Artigo_06.json": 1
+        },
+        "visando": {
+            "Artigo_01.json": 1,
+            "Artigo_09.json": 1
+        },
+        "compliance": {
+            "Artigo_01.json": 1,
+            "Artigo_17.json": 1
+        },
+        "artigo": {
+            "Artigo_01.json": 1,
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 3,
+            "Artigo_06.json": 2,
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_10.json": 3,
+            "Artigo_11.json": 1,
+            "Artigo_12.json": 3,
+            "Artigo_13.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 2,
+            "Artigo_18.json": 2,
+            "Artigo_19.json": 2,
+            "Artigo_20.json": 1
+        },
+        "objetivo": {
+            "Artigo_01.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_19.json": 1,
+            "Artigo_20.json": 1
+        },
+        "reunir": {
+            "Artigo_01.json": 2
+        },
+        "pesquisa": {
+            "Artigo_01.json": 1,
+            "Artigo_03.json": 1,
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 2,
+            "Artigo_10.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_19.json": 1
+        },
+        "sistemática": {
+            "Artigo_01.json": 1,
+            "Artigo_05.json": 1
+        },
+        "período": {
+            "Artigo_01.json": 2
+        },
+        "artigos": {
+            "Artigo_01.json": 2,
+            "Artigo_02.json": 1,
+            "Artigo_05.json": 4,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_20.json": 1
+        },
+        "englobam": {
+            "Artigo_01.json": 2
+        },
+        "proteção": {
+            "Artigo_01.json": 1,
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 3,
+            "Artigo_04.json": 4,
+            "Artigo_05.json": 1,
+            "Artigo_06.json": 4,
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 2,
+            "Artigo_09.json": 2,
+            "Artigo_10.json": 1,
+            "Artigo_12.json": 2,
+            "Artigo_13.json": 2,
+            "Artigo_14.json": 3,
+            "Artigo_15.json": 5,
+            "Artigo_16.json": 2,
+            "Artigo_17.json": 3,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 3
+        },
+        "dados": {
+            "Artigo_01.json": 1,
+            "Artigo_02.json": 4,
+            "Artigo_03.json": 3,
+            "Artigo_04.json": 6,
+            "Artigo_05.json": 1,
+            "Artigo_06.json": 5,
+            "Artigo_07.json": 3,
+            "Artigo_08.json": 3,
+            "Artigo_09.json": 3,
+            "Artigo_10.json": 1,
+            "Artigo_12.json": 4,
+            "Artigo_13.json": 3,
+            "Artigo_14.json": 3,
+            "Artigo_15.json": 5,
+            "Artigo_16.json": 3,
+            "Artigo_17.json": 5,
+            "Artigo_18.json": 5,
+            "Artigo_19.json": 1,
+            "Artigo_20.json": 7
+        },
+        "pessoais": {
+            "Artigo_01.json": 1,
+            "Artigo_02.json": 1,
+            "Artigo_03.json": 2,
+            "Artigo_04.json": 2,
+            "Artigo_06.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_13.json": 3,
+            "Artigo_15.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 3
+        },
+        "finalidade": {
+            "Artigo_01.json": 1,
+            "Artigo_15.json": 1
+        },
+        "centralizar": {
+            "Artigo_01.json": 1
+        },
+        "correntes": {
+            "Artigo_01.json": 1
+        },
+        "comunidade": {
+            "Artigo_01.json": 1
+        },
+        "cientifica": {
+            "Artigo_01.json": 1
+        },
+        "dele": {
+            "Artigo_01.json": 1
+        },
+        "delimitar": {
+            "Artigo_01.json": 1
+        },
+        "futuros": {
+            "Artigo_01.json": 1
+        },
+        "desafios": {
+            "Artigo_01.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_12.json": 4
+        },
+        "facilitar": {
+            "Artigo_01.json": 1
+        },
+        "acesso": {
+            "Artigo_01.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_15.json": 1
+        },
+        "tema": {
+            "Artigo_01.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1
+        },
+        "ebscohost": {
+            "Artigo_01.json": 1
+        },
+        "google": {
+            "Artigo_01.json": 1
+        },
+        "scholar": {
+            "Artigo_01.json": 1
+        },
+        "presente": {
+            "Artigo_02.json": 1,
+            "Artigo_03.json": 2,
+            "Artigo_09.json": 1,
+            "Artigo_10.json": 2,
+            "Artigo_12.json": 1,
+            "Artigo_13.json": 2,
+            "Artigo_17.json": 2
+        },
+        "visa": {
+            "Artigo_02.json": 1,
+            "Artigo_10.json": 1
+        },
+        "analisar": {
+            "Artigo_02.json": 1,
+            "Artigo_03.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_19.json": 1
+        },
+        "bases": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_15.json": 2
+        },
+        "legais": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_11.json": 2,
+            "Artigo_12.json": 2,
+            "Artigo_15.json": 2
+        },
+        "tratamento": {
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 2,
+            "Artigo_04.json": 1,
+            "Artigo_06.json": 2,
+            "Artigo_13.json": 1,
+            "Artigo_17.json": 2,
+            "Artigo_19.json": 1
+        },
+        "brasileira": {
+            "Artigo_02.json": 2,
+            "Artigo_05.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_15.json": 2,
+            "Artigo_16.json": 1
+        },
+        "-": {
+            "Artigo_02.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_17.json": 1
+        },
+        "n": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_17.json": 1
+        },
+        "13": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_17.json": 1
+        },
+        "709": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_17.json": 1
+        },
+        "18": {
+            "Artigo_02.json": 1,
+            "Artigo_07.json": 1
+        },
+        "necessidade": {
+            "Artigo_02.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1
+        },
+        "regra": {
+            "Artigo_02.json": 1
+        },
+        "enquadrar": {
+            "Artigo_02.json": 1
+        },
+        "base": {
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_20.json": 1
+        },
+        "legal": {
+            "Artigo_02.json": 2,
+            "Artigo_03.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_20.json": 1
+        },
+        "determinada": {
+            "Artigo_02.json": 1
+        },
+        "mostra-se": {
+            "Artigo_02.json": 1
+        },
+        "relevante": {
+            "Artigo_02.json": 1
+        },
+        "estudar": {
+            "Artigo_02.json": 1
+        },
+        "possibilidades": {
+            "Artigo_02.json": 1
+        },
+        "positivadas": {
+            "Artigo_02.json": 1
+        },
+        "7": {
+            "Artigo_02.json": 1
+        },
+        "11": {
+            "Artigo_02.json": 1
+        },
+        "especialmente": {
+            "Artigo_02.json": 1
+        },
+        "hipóteses": {
+            "Artigo_02.json": 1
+        },
+        "consentimento": {
+            "Artigo_02.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 1
+        },
+        "legítimo": {
+            "Artigo_02.json": 1,
+            "Artigo_15.json": 1
+        },
+        "interesse": {
+            "Artigo_02.json": 1,
+            "Artigo_03.json": 1,
+            "Artigo_15.json": 1
+        },
+        "entender": {
+            "Artigo_02.json": 1,
+            "Artigo_14.json": 1
+        },
+        "aplicação": {
+            "Artigo_02.json": 1,
+            "Artigo_15.json": 2
+        },
+        "fundamental": {
+            "Artigo_02.json": 1,
+            "Artigo_18.json": 1
+        },
+        "garantir": {
+            "Artigo_02.json": 1
+        },
+        "relações": {
+            "Artigo_02.json": 1,
+            "Artigo_17.json": 1
+        },
+        "evitar": {
+            "Artigo_02.json": 1
+        },
+        "direitos": {
+            "Artigo_02.json": 1,
+            "Artigo_04.json": 2,
+            "Artigo_13.json": 1,
+            "Artigo_15.json": 3,
+            "Artigo_17.json": 1
+        },
+        "liberdades": {
+            "Artigo_02.json": 1
+        },
+        "titulares": {
+            "Artigo_02.json": 1,
+            "Artigo_06.json": 2,
+            "Artigo_08.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_18.json": 1
+        },
+        "sejam": {
+            "Artigo_02.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_13.json": 1
+        },
+        "ameaçados": {
+            "Artigo_02.json": 1
+        },
+        "sofram": {
+            "Artigo_02.json": 1
+        },
+        "danos": {
+            "Artigo_02.json": 1
+        },
+        "serão": {
+            "Artigo_02.json": 1,
+            "Artigo_09.json": 1
+        },
+        "analisadas": {
+            "Artigo_02.json": 1
+        },
+        "principalmente": {
+            "Artigo_02.json": 1,
+            "Artigo_17.json": 1
+        },
+        "doutrina": {
+            "Artigo_02.json": 1
+        },
+        "referências": {
+            "Artigo_02.json": 1
+        },
+        "versam": {
+            "Artigo_02.json": 1
+        },
+        "regulamento": {
+            "Artigo_02.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1
+        },
+        "europeu": {
+            "Artigo_02.json": 1,
+            "Artigo_15.json": 1
+        },
+        "estudo": {
+            "Artigo_03.json": 2,
+            "Artigo_04.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_15.json": 1
+        },
+        "objetiva": {
+            "Artigo_03.json": 1,
+            "Artigo_17.json": 1
+        },
+        "método": {
+            "Artigo_03.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_11.json": 2,
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "indutivo": {
+            "Artigo_03.json": 1
+        },
+        "bibliográfica": {
+            "Artigo_03.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_10.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_19.json": 1
+        },
+        "proceder": {
+            "Artigo_03.json": 1
+        },
+        "análise": {
+            "Artigo_03.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 3,
+            "Artigo_15.json": 1,
+            "Artigo_16.json": 1
+        },
+        "conferido": {
+            "Artigo_03.json": 1
+        },
+        "processos": {
+            "Artigo_03.json": 1,
+            "Artigo_16.json": 2
+        },
+        "coleta": {
+            "Artigo_03.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_16.json": 1
+        },
+        "crianças": {
+            "Artigo_03.json": 2
+        },
+        "adolescentes": {
+            "Artigo_03.json": 2
+        },
+        "abordando": {
+            "Artigo_03.json": 1
+        },
+        "conceito": {
+            "Artigo_03.json": 1,
+            "Artigo_09.json": 1
+        },
+        "criança": {
+            "Artigo_03.json": 3
+        },
+        "adolescente": {
+            "Artigo_03.json": 3
+        },
+        "estatuto": {
+            "Artigo_03.json": 1
+        },
+        "passando": {
+            "Artigo_03.json": 1,
+            "Artigo_09.json": 1
+        },
+        "ideias": {
+            "Artigo_03.json": 1
+        },
+        "principais": {
+            "Artigo_03.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_17.json": 2,
+            "Artigo_20.json": 1
+        },
+        "apresentado": {
+            "Artigo_03.json": 1,
+            "Artigo_04.json": 1
+        },
+        "conformidade": {
+            "Artigo_03.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_18.json": 2,
+            "Artigo_20.json": 1
+        },
+        "conjunto": {
+            "Artigo_03.json": 1,
+            "Artigo_04.json": 1,
+            "Artigo_09.json": 1
+        },
+        "normas": {
+            "Artigo_03.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_14.json": 2
+        },
+        "protetivas": {
+            "Artigo_03.json": 1
+        },
+        "categorias": {
+            "Artigo_03.json": 1,
+            "Artigo_13.json": 1
+        },
+        "pessoas": {
+            "Artigo_03.json": 1,
+            "Artigo_04.json": 1
+        },
+        "observando-se": {
+            "Artigo_03.json": 1
+        },
+        "sobretudo": {
+            "Artigo_03.json": 1
+        },
+        "melhor": {
+            "Artigo_03.json": 1
+        },
+        "representam": {
+            "Artigo_04.json": 1
+        },
+        "foco": {
+            "Artigo_04.json": 1
+        },
+        "revolução": {
+            "Artigo_04.json": 1
+        },
+        "digital": {
+            "Artigo_04.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "gradualmente": {
+            "Artigo_04.json": 1
+        },
+        "privacidade": {
+            "Artigo_04.json": 2,
+            "Artigo_06.json": 1,
+            "Artigo_11.json": 1,
+            "Artigo_12.json": 2,
+            "Artigo_16.json": 2,
+            "Artigo_17.json": 2,
+            "Artigo_18.json": 2
+        },
+        "intimidade": {
+            "Artigo_04.json": 1,
+            "Artigo_17.json": 1
+        },
+        "tornaram": {
+            "Artigo_04.json": 1
+        },
+        "necessárias": {
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1
+        },
+        "particular": {
+            "Artigo_04.json": 1
+        },
+        "cidadãos": {
+            "Artigo_04.json": 1
+        },
+        "regulamentada": {
+            "Artigo_04.json": 1
+        },
+        "levando": {
+            "Artigo_04.json": 1
+        },
+        "brasil": {
+            "Artigo_04.json": 2,
+            "Artigo_07.json": 3,
+            "Artigo_10.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 2,
+            "Artigo_20.json": 1
+        },
+        "patamar": {
+            "Artigo_04.json": 1
+        },
+        "realidade": {
+            "Artigo_04.json": 1
+        },
+        "princípios": {
+            "Artigo_04.json": 3,
+            "Artigo_08.json": 1,
+            "Artigo_15.json": 5
+        },
+        "obrigações": {
+            "Artigo_04.json": 1
+        },
+        "relacionados": {
+            "Artigo_04.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_16.json": 1
+        },
+        "reúne": {
+            "Artigo_04.json": 1
+        },
+        "elementos": {
+            "Artigo_04.json": 1
+        },
+        "controle": {
+            "Artigo_04.json": 1
+        },
+        "possibilitando": {
+            "Artigo_04.json": 1
+        },
+        "cumprimento": {
+            "Artigo_04.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_15.json": 1
+        },
+        "garantias": {
+            "Artigo_04.json": 1,
+            "Artigo_17.json": 1
+        },
+        "previstas": {
+            "Artigo_04.json": 1,
+            "Artigo_08.json": 1
+        },
+        "cujo": {
+            "Artigo_04.json": 1
+        },
+        "lastro": {
+            "Artigo_04.json": 1
+        },
+        "funda": {
+            "Artigo_04.json": 1
+        },
+        "humanos": {
+            "Artigo_04.json": 1
+        },
+        "resguarda": {
+            "Artigo_04.json": 1
+        },
+        "fundamentais": {
+            "Artigo_04.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_17.json": 1
+        },
+        "direito": {
+            "Artigo_04.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_19.json": 1
+        },
+        "liberdade": {
+            "Artigo_04.json": 1,
+            "Artigo_17.json": 1
+        },
+        "livre": {
+            "Artigo_04.json": 1
+        },
+        "personalidade": {
+            "Artigo_04.json": 1
+        },
+        "pessoa": {
+            "Artigo_04.json": 1,
+            "Artigo_10.json": 1
+        },
+        "enunciando": {
+            "Artigo_04.json": 1
+        },
+        "boa-fé": {
+            "Artigo_04.json": 1
+        },
+        "regras": {
+            "Artigo_04.json": 1,
+            "Artigo_15.json": 1
+        },
+        "controles": {
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 4
+        },
+        "assegurar": {
+            "Artigo_04.json": 1
+        },
+        "sentido": {
+            "Artigo_04.json": 1
+        },
+        "apresenta": {
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_12.json": 1
+        },
+        "introdução": {
+            "Artigo_04.json": 1
+        },
+        "descreve": {
+            "Artigo_04.json": 1
+        },
+        "linhas": {
+            "Artigo_04.json": 1
+        },
+        "gerais": {
+            "Artigo_04.json": 1
+        },
+        "2018": {
+            "Artigo_04.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_15.json": 2,
+            "Artigo_17.json": 1
+        },
+        "posteriormente": {
+            "Artigo_04.json": 1
+        },
+        "explana-se": {
+            "Artigo_04.json": 1
+        },
+        "respeito": {
+            "Artigo_04.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_17.json": 1
+        },
+        "procedimentos": {
+            "Artigo_04.json": 1
+        },
+        "metodológicos": {
+            "Artigo_04.json": 1
+        },
+        "revisão": {
+            "Artigo_04.json": 1,
+            "Artigo_05.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_20.json": 1
+        },
+        "narrativa": {
+            "Artigo_04.json": 1
+        },
+        "dando": {
+            "Artigo_04.json": 1
+        },
+        "robustez": {
+            "Artigo_04.json": 1
+        },
+        "embasamento": {
+            "Artigo_04.json": 1
+        },
+        "apresenta-se": {
+            "Artigo_04.json": 1
+        },
+        "fundamentação": {
+            "Artigo_04.json": 1
+        },
+        "teórica": {
+            "Artigo_04.json": 1
+        },
+        "importantes": {
+            "Artigo_04.json": 1
+        },
+        "regulados": {
+            "Artigo_04.json": 1
+        },
+        "referida": {
+            "Artigo_04.json": 1,
+            "Artigo_08.json": 1
+        },
+        "jurídicos": {
+            "Artigo_04.json": 1,
+            "Artigo_20.json": 1
+        },
+        "agentes": {
+            "Artigo_04.json": 1,
+            "Artigo_06.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_13.json": 1
+        },
+        "responsabilidades": {
+            "Artigo_04.json": 1
+        },
+        "seguida": {
+            "Artigo_04.json": 1
+        },
+        "encontra-se": {
+            "Artigo_04.json": 1
+        },
+        "discussão": {
+            "Artigo_04.json": 1,
+            "Artigo_09.json": 1
+        },
+        "assunto": {
+            "Artigo_04.json": 1
+        },
+        "apresentada": {
+            "Artigo_04.json": 1
+        },
+        "conclusão": {
+            "Artigo_04.json": 1,
+            "Artigo_20.json": 1
+        },
+        "verificar": {
+            "Artigo_05.json": 1
+        },
+        "quantidade": {
+            "Artigo_05.json": 2
+        },
+        "publicados": {
+            "Artigo_05.json": 1
+        },
+        "periódico": {
+            "Artigo_05.json": 3
+        },
+        "capes": {
+            "Artigo_05.json": 2
+        },
+        "cafe": {
+            "Artigo_05.json": 2
+        },
+        "agosto": {
+            "Artigo_05.json": 1,
+            "Artigo_17.json": 2
+        },
+        "2024": {
+            "Artigo_05.json": 1
+        },
+        "considerando": {
+            "Artigo_05.json": 1,
+            "Artigo_06.json": 1
+        },
+        "publicações": {
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1
+        },
+        "vinculadas": {
+            "Artigo_05.json": 1
+        },
+        "organizações": {
+            "Artigo_05.json": 1
+        },
+        "instituições": {
+            "Artigo_05.json": 1,
+            "Artigo_12.json": 2
+        },
+        "públicas": {
+            "Artigo_05.json": 1
+        },
+        "metodologia": {
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_18.json": 1
+        },
+        "utilizada": {
+            "Artigo_05.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1
+        },
+        "integrativa": {
+            "Artigo_05.json": 1
+        },
+        "perspectiva": {
+            "Artigo_05.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_17.json": 1
+        },
+        "utilização": {
+            "Artigo_05.json": 2,
+            "Artigo_12.json": 1,
+            "Artigo_20.json": 1
+        },
+        "deu": {
+            "Artigo_05.json": 1
+        },
+        "procura": {
+            "Artigo_05.json": 1
+        },
+        "utilizando-se": {
+            "Artigo_05.json": 1
+        },
+        "descritores": {
+            "Artigo_05.json": 1,
+            "Artigo_20.json": 1
+        },
+        "relacionado": {
+            "Artigo_05.json": 1
+        },
+        "visualizado": {
+            "Artigo_05.json": 1
+        },
+        "relativa": {
+            "Artigo_05.json": 1
+        },
+        "existente": {
+            "Artigo_05.json": 1
+        },
+        "utilizar": {
+            "Artigo_05.json": 1
+        },
+        "filtros": {
+            "Artigo_05.json": 1
+        },
+        "disponíveis": {
+            "Artigo_05.json": 1,
+            "Artigo_18.json": 1
+        },
+        "6": {
+            "Artigo_05.json": 1
+        },
+        "correspondiam": {
+            "Artigo_05.json": 1
+        },
+        "propósito": {
+            "Artigo_05.json": 1
+        },
+        "resultados": {
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_20.json": 1
+        },
+        "encontrados": {
+            "Artigo_05.json": 1,
+            "Artigo_09.json": 1
+        },
+        "relevantes": {
+            "Artigo_05.json": 1,
+            "Artigo_13.json": 1
+        },
+        "visto": {
+            "Artigo_05.json": 1
+        },
+        "existe": {
+            "Artigo_05.json": 1
+        },
+        "variação": {
+            "Artigo_05.json": 1
+        },
+        "aspectos": {
+            "Artigo_05.json": 1,
+            "Artigo_09.json": 2,
+            "Artigo_13.json": 2,
+            "Artigo_14.json": 1
+        },
+        "pesquisas": {
+            "Artigo_05.json": 1
+        },
+        "temática": {
+            "Artigo_05.json": 1,
+            "Artigo_20.json": 1
+        },
+        "abordada": {
+            "Artigo_05.json": 1,
+            "Artigo_20.json": 1
+        },
+        "campo": {
+            "Artigo_05.json": 1
+        },
+        "conhecimento": {
+            "Artigo_05.json": 1
+        },
+        "científico": {
+            "Artigo_05.json": 2
+        },
+        "destacar": {
+            "Artigo_05.json": 1
+        },
+        "variada": {
+            "Artigo_05.json": 1
+        },
+        "métodos": {
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1
+        },
+        "realizar": {
+            "Artigo_05.json": 1,
+            "Artigo_14.json": 1
+        },
+        "trabalhos": {
+            "Artigo_05.json": 1,
+            "Artigo_20.json": 2
+        },
+        "verificou": {
+            "Artigo_05.json": 1
+        },
+        "tais": {
+            "Artigo_05.json": 1,
+            "Artigo_08.json": 1
+        },
+        "ações": {
+            "Artigo_05.json": 1,
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_20.json": 1
+        },
+        "proporcionaram": {
+            "Artigo_05.json": 1
+        },
+        "valor": {
+            "Artigo_05.json": 1
+        },
+        "agregado": {
+            "Artigo_05.json": 1
+        },
+        "conteúdo": {
+            "Artigo_05.json": 1,
+            "Artigo_15.json": 1
+        },
+        "abordado": {
+            "Artigo_05.json": 1,
+            "Artigo_17.json": 1
+        },
+        "sociedade": {
+            "Artigo_05.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_10.json": 1
+        },
+        "trata": {
+            "Artigo_06.json": 1,
+            "Artigo_09.json": 1,
+            "Artigo_20.json": 1
+        },
+        "interpretação": {
+            "Artigo_06.json": 2,
+            "Artigo_15.json": 1
+        },
+        "20": {
+            "Artigo_06.json": 1
+        },
+        "outorga": {
+            "Artigo_06.json": 1
+        },
+        "decisões": {
+            "Artigo_06.json": 1,
+            "Artigo_13.json": 1
+        },
+        "afetem": {
+            "Artigo_06.json": 1
+        },
+        "interesses": {
+            "Artigo_06.json": 1,
+            "Artigo_20.json": 1
+        },
+        "unicamente": {
+            "Artigo_06.json": 1
+        },
+        "automatizado": {
+            "Artigo_06.json": 1
+        },
+        "buscou-se": {
+            "Artigo_06.json": 1,
+            "Artigo_17.json": 1
+        },
+        "contribuir": {
+            "Artigo_06.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_19.json": 1
+        },
+        "confirme": {
+            "Artigo_06.json": 1
+        },
+        "efetividade": {
+            "Artigo_06.json": 1
+        },
+        "autodeterminação": {
+            "Artigo_06.json": 1
+        },
+        "discriminação": {
+            "Artigo_06.json": 1
+        },
+        "impeça": {
+            "Artigo_06.json": 1
+        },
+        "inovação": {
+            "Artigo_06.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1
+        },
+        "produtos": {
+            "Artigo_06.json": 1
+        },
+        "serviços": {
+            "Artigo_06.json": 1
+        },
+        "suportados": {
+            "Artigo_06.json": 1
+        },
+        "uso": {
+            "Artigo_06.json": 1
+        },
+        "inclusive": {
+            "Artigo_06.json": 1
+        },
+        "via": {
+            "Artigo_06.json": 1
+        },
+        "segredo": {
+            "Artigo_06.json": 1
+        },
+        "empresarial": {
+            "Artigo_06.json": 1,
+            "Artigo_14.json": 1
+        },
+        "industrial": {
+            "Artigo_06.json": 1
+        },
+        "comercial": {
+            "Artigo_06.json": 1
+        },
+        "atual": {
+            "Artigo_06.json": 1
+        },
+        "preponderância": {
+            "Artigo_06.json": 1
+        },
+        "modelos": {
+            "Artigo_06.json": 1,
+            "Artigo_09.json": 1
+        },
+        "negócio": {
+            "Artigo_06.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_09.json": 1
+        },
+        "dependem": {
+            "Artigo_06.json": 1
+        },
+        "processamento": {
+            "Artigo_06.json": 1,
+            "Artigo_09.json": 1
+        },
+        "massivo": {
+            "Artigo_06.json": 1
+        },
+        "tem-se": {
+            "Artigo_07.json": 1
+        },
+        "ouvido": {
+            "Artigo_07.json": 1
+        },
+        "relado": {
+            "Artigo_07.json": 1
+        },
+        "muitas": {
+            "Artigo_07.json": 1
+        },
+        "dificuldades": {
+            "Artigo_07.json": 1,
+            "Artigo_10.json": 1
+        },
+        "entendimento": {
+            "Artigo_07.json": 1
+        },
+        "implementar": {
+            "Artigo_07.json": 1
+        },
+        "previstos": {
+            "Artigo_07.json": 1
+        },
+        "adequação": {
+            "Artigo_07.json": 1,
+            "Artigo_10.json": 1
+        },
+        "realmente": {
+            "Artigo_07.json": 1
+        },
+        "necessária": {
+            "Artigo_07.json": 1
+        },
+        "resultado": {
+            "Artigo_07.json": 1
+        },
+        "mapeamento": {
+            "Artigo_07.json": 1,
+            "Artigo_12.json": 2
+        },
+        "requisitos": {
+            "Artigo_07.json": 1,
+            "Artigo_11.json": 5,
+            "Artigo_12.json": 1
+        },
+        "listados": {
+            "Artigo_07.json": 1
+        },
+        "instituição": {
+            "Artigo_07.json": 2,
+            "Artigo_17.json": 1
+        },
+        "financeira": {
+            "Artigo_07.json": 1
+        },
+        "controlado": {
+            "Artigo_07.json": 1
+        },
+        "mundial": {
+            "Artigo_07.json": 1
+        },
+        "filiais": {
+            "Artigo_07.json": 1
+        },
+        "mundo": {
+            "Artigo_07.json": 1
+        },
+        "inteiro": {
+            "Artigo_07.json": 1
+        },
+        "descrita": {
+            "Artigo_07.json": 1
+        },
+        "resultou": {
+            "Artigo_07.json": 1
+        },
+        "diagnóstico": {
+            "Artigo_07.json": 1
+        },
+        "recomendações": {
+            "Artigo_07.json": 1,
+            "Artigo_16.json": 2
+        },
+        "adequar": {
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1
+        },
+        "empresa": {
+            "Artigo_07.json": 2,
+            "Artigo_08.json": 1
+        },
+        "escolhido": {
+            "Artigo_07.json": 1
+        },
+        "junto": {
+            "Artigo_07.json": 1
+        },
+        "sites": {
+            "Artigo_07.json": 1,
+            "Artigo_20.json": 1
+        },
+        "especializados": {
+            "Artigo_07.json": 1
+        },
+        "livros": {
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1,
+            "Artigo_20.json": 2
+        },
+        "revistas": {
+            "Artigo_07.json": 1
+        },
+        "congressos": {
+            "Artigo_07.json": 1
+        },
+        "nacionais": {
+            "Artigo_07.json": 1
+        },
+        "internacionais": {
+            "Artigo_07.json": 1
+        },
+        "pesquisa-ação": {
+            "Artigo_07.json": 1
+        },
+        "caso": {
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 2
+        },
+        "combinação": {
+            "Artigo_07.json": 1
+        },
+        "diferentes": {
+            "Artigo_07.json": 1,
+            "Artigo_11.json": 1,
+            "Artigo_12.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 1
+        },
+        "teorias": {
+            "Artigo_07.json": 1
+        },
+        "fontes": {
+            "Artigo_07.json": 1
+        },
+        "ajudar": {
+            "Artigo_07.json": 1,
+            "Artigo_14.json": 1
+        },
+        "superar": {
+            "Artigo_07.json": 1
+        },
+        "viés": {
+            "Artigo_07.json": 1
+        },
+        "natural": {
+            "Artigo_07.json": 1
+        },
+        "atinge": {
+            "Artigo_07.json": 1
+        },
+        "estudos": {
+            "Artigo_07.json": 1,
+            "Artigo_11.json": 1
+        },
+        "abordagens": {
+            "Artigo_07.json": 1
+        },
+        "singulares": {
+            "Artigo_07.json": 1
+        },
+        "denzin": {
+            "Artigo_07.json": 1
+        },
+        "1970": {
+            "Artigo_07.json": 1,
+            "Artigo_15.json": 1
+        },
+        "oferecer": {
+            "Artigo_07.json": 1
+        },
+        "resposta": {
+            "Artigo_07.json": 1
+        },
+        "robusta": {
+            "Artigo_07.json": 1,
+            "Artigo_20.json": 1
+        },
+        "proposta": {
+            "Artigo_07.json": 2
+        },
+        "produzida": {
+            "Artigo_07.json": 1
+        },
+        "desenho": {
+            "Artigo_07.json": 1
+        },
+        "somente": {
+            "Artigo_07.json": 2
+        },
+        "quantitativo": {
+            "Artigo_07.json": 1
+        },
+        "qualitativo": {
+            "Artigo_07.json": 1,
+            "Artigo_15.json": 1
+        },
+        "yin": {
+            "Artigo_07.json": 1
+        },
+        "2006": {
+            "Artigo_07.json": 1
+        },
+        "mostraram": {
+            "Artigo_07.json": 1
+        },
+        "325": {
+            "Artigo_07.json": 1
+        },
+        "determinados": {
+            "Artigo_07.json": 1
+        },
+        "analisados": {
+            "Artigo_07.json": 1
+        },
+        "117": {
+            "Artigo_07.json": 1
+        },
+        "itens": {
+            "Artigo_07.json": 2
+        },
+        "36": {
+            "Artigo_07.json": 1
+        },
+        "atendidos": {
+            "Artigo_07.json": 2
+        },
+        "plenamente": {
+            "Artigo_07.json": 1
+        },
+        "67": {
+            "Artigo_07.json": 1
+        },
+        "21": {
+            "Artigo_07.json": 1
+        },
+        "atendem": {
+            "Artigo_07.json": 2
+        },
+        "parcialmente": {
+            "Artigo_07.json": 1
+        },
+        "141": {
+            "Artigo_07.json": 1
+        },
+        "43": {
+            "Artigo_07.json": 1
+        },
+        "necessidades": {
+            "Artigo_07.json": 1
+        },
+        "constatou-se": {
+            "Artigo_07.json": 1
+        },
+        "elevado": {
+            "Artigo_07.json": 1
+        },
+        "risco": {
+            "Artigo_07.json": 1,
+            "Artigo_08.json": 1
+        },
+        "incorrer": {
+            "Artigo_07.json": 1
+        },
+        "conformidades": {
+            "Artigo_07.json": 1
+        },
+        "aplicada": {
+            "Artigo_07.json": 1,
+            "Artigo_09.json": 1
+        },
+        "legislação": {
+            "Artigo_07.json": 1,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 1
+        },
+        "advinda": {
+            "Artigo_07.json": 1
+        },
+        "principal": {
+            "Artigo_08.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_17.json": 1
+        },
+        "apresentar": {
+            "Artigo_08.json": 2,
+            "Artigo_10.json": 2,
+            "Artigo_20.json": 1
+        },
+        "mudanças": {
+            "Artigo_08.json": 1
+        },
+        "trazidas": {
+            "Artigo_08.json": 1
+        },
+        "rotina": {
+            "Artigo_08.json": 1
+        },
+        "contabilidade": {
+            "Artigo_08.json": 4
+        },
+        "consequentes": {
+            "Artigo_08.json": 1
+        },
+        "adequações": {
+            "Artigo_08.json": 1
+        },
+        "busca-se": {
+            "Artigo_08.json": 1
+        },
+        "evidenciar": {
+            "Artigo_08.json": 1
+        },
+        "fundamentos": {
+            "Artigo_08.json": 1,
+            "Artigo_19.json": 1
+        },
+        "dispositivo": {
+            "Artigo_08.json": 1
+        },
+        "riscos": {
+            "Artigo_08.json": 1
+        },
+        "influência": {
+            "Artigo_08.json": 1
+        },
+        "operações": {
+            "Artigo_08.json": 1
+        },
+        "procurou": {
+            "Artigo_08.json": 1
+        },
+        "modo": {
+            "Artigo_08.json": 1
+        },
+        "expor": {
+            "Artigo_08.json": 1
+        },
+        "aplicar": {
+            "Artigo_08.json": 1
+        },
+        "adequá-lo": {
+            "Artigo_08.json": 1
+        },
+        "torná-lo": {
+            "Artigo_08.json": 1
+        },
+        "seguro": {
+            "Artigo_08.json": 1
+        },
+        "protegê-lo": {
+            "Artigo_08.json": 1
+        },
+        "sanções": {
+            "Artigo_08.json": 2,
+            "Artigo_15.json": 1,
+            "Artigo_17.json": 1
+        },
+        "desenvolver": {
+            "Artigo_08.json": 1,
+            "Artigo_16.json": 1
+        },
+        "utilizadas": {
+            "Artigo_08.json": 1
+        },
+        "descritiva": {
+            "Artigo_08.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_19.json": 1
+        },
+        "exploratória": {
+            "Artigo_08.json": 1,
+            "Artigo_18.json": 1
+        },
+        "realizada": {
+            "Artigo_08.json": 1
+        },
+        "conclui-se": {
+            "Artigo_08.json": 1,
+            "Artigo_13.json": 1,
+            "Artigo_15.json": 1
+        },
+        "precisam": {
+            "Artigo_08.json": 1
+        },
+        "tendo": {
+            "Artigo_08.json": 1
+        },
+        "vista": {
+            "Artigo_08.json": 1
+        },
+        "impacto": {
+            "Artigo_08.json": 1,
+            "Artigo_14.json": 1
+        },
+        "negativo": {
+            "Artigo_08.json": 1
+        },
+        "sujeitas": {
+            "Artigo_08.json": 1
+        },
+        "multas": {
+            "Artigo_08.json": 1
+        },
+        "corre": {
+            "Artigo_08.json": 1
+        },
+        "perder": {
+            "Artigo_08.json": 1
+        },
+        "credibilidade": {
+            "Artigo_08.json": 1
+        },
+        "mercado": {
+            "Artigo_08.json": 1,
+            "Artigo_19.json": 1
+        },
+        "esteja": {
+            "Artigo_08.json": 1
+        },
+        "envolvida": {
+            "Artigo_08.json": 1
+        },
+        "eventos": {
+            "Artigo_08.json": 1
+        },
+        "vazamento": {
+            "Artigo_08.json": 1,
+            "Artigo_20.json": 1
+        },
+        "dentre": {
+            "Artigo_08.json": 1
+        },
+        "contrapartida": {
+            "Artigo_08.json": 1
+        },
+        "percebeu-se": {
+            "Artigo_08.json": 1
+        },
+        "chegada": {
+            "Artigo_08.json": 1
+        },
+        "oportunidades": {
+            "Artigo_08.json": 1
+        },
+        "melhoria": {
+            "Artigo_08.json": 1
+        },
+        "últimos": {
+            "Artigo_09.json": 1
+        },
+        "identificou-se": {
+            "Artigo_09.json": 1
+        },
+        "crescimento": {
+            "Artigo_09.json": 1
+        },
+        "notável": {
+            "Artigo_09.json": 1
+        },
+        "pequenos": {
+            "Artigo_09.json": 1
+        },
+        "dispositivos": {
+            "Artigo_09.json": 7
+        },
+        "tecnológicos": {
+            "Artigo_09.json": 1,
+            "Artigo_12.json": 1
+        },
+        "conectados": {
+            "Artigo_09.json": 1
+        },
+        "internet": {
+            "Artigo_09.json": 3
+        },
+        "trocando": {
+            "Artigo_09.json": 1
+        },
+        "gerando": {
+            "Artigo_09.json": 1
+        },
+        "coisas": {
+            "Artigo_09.json": 1
+        },
+        "of": {
+            "Artigo_09.json": 1
+        },
+        "things": {
+            "Artigo_09.json": 1
+        },
+        "iot": {
+            "Artigo_09.json": 2
+        },
+        "apoiando": {
+            "Artigo_09.json": 1
+        },
+        "diversos": {
+            "Artigo_09.json": 1
+        },
+        "sensores": {
+            "Artigo_09.json": 2
+        },
+        "cardíacos": {
+            "Artigo_09.json": 1
+        },
+        "healthcare": {
+            "Artigo_09.json": 1
+        },
+        "relógios": {
+            "Artigo_09.json": 1
+        },
+        "micro-ondas": {
+            "Artigo_09.json": 1
+        },
+        "terremotos": {
+            "Artigo_09.json": 1
+        },
+        "furacões": {
+            "Artigo_09.json": 1
+        },
+        "tsunamis": {
+            "Artigo_09.json": 1
+        },
+        "sendo": {
+            "Artigo_09.json": 1,
+            "Artigo_10.json": 1,
+            "Artigo_15.json": 1,
+            "Artigo_19.json": 1
+        },
+        "moderna": {
+            "Artigo_09.json": 1
+        },
+        "existam": {
+            "Artigo_09.json": 1
+        },
+        "inúmeras": {
+            "Artigo_09.json": 1
+        },
+        "preocupações": {
+            "Artigo_09.json": 1,
+            "Artigo_16.json": 1
+        },
+        "restrição": {
+            "Artigo_09.json": 1
+        },
+        "memoria": {
+            "Artigo_09.json": 1
+        },
+        "bandwidth": {
+            "Artigo_09.json": 1
+        },
+        "energia": {
+            "Artigo_09.json": 1
+        },
+        "devido": {
+            "Artigo_09.json": 1
+        },
+        "tamanho": {
+            "Artigo_09.json": 1,
+            "Artigo_15.json": 1
+        },
+        "reduzido": {
+            "Artigo_09.json": 1
+        },
+        "sabe-se": {
+            "Artigo_09.json": 1
+        },
+        "alcançar": {
+            "Artigo_09.json": 1
+        },
+        "níveis": {
+            "Artigo_09.json": 1
+        },
+        "necessários": {
+            "Artigo_09.json": 1
+        },
+        "afim": {
+            "Artigo_09.json": 1
+        },
+        "cumprir": {
+            "Artigo_09.json": 1
+        },
+        "legislações": {
+            "Artigo_09.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 1
+        },
+        "países": {
+            "Artigo_09.json": 1
+        },
+        "iremos": {
+            "Artigo_09.json": 1
+        },
+        "abordar": {
+            "Artigo_09.json": 1,
+            "Artigo_12.json": 1
+        },
+        "usuários": {
+            "Artigo_09.json": 1
+        },
+        "transmissão": {
+            "Artigo_09.json": 1
+        },
+        "armazenamento": {
+            "Artigo_09.json": 1
+        },
+        "sigilosos": {
+            "Artigo_09.json": 1
+        },
+        "descritos": {
+            "Artigo_09.json": 1
+        },
+        "falamos": {
+            "Artigo_09.json": 1
+        },
+        "restritos": {
+            "Artigo_09.json": 1
+        },
+        "abordados": {
+            "Artigo_09.json": 1
+        },
+        "conceitos": {
+            "Artigo_09.json": 2
+        },
+        "requeridos": {
+            "Artigo_09.json": 1
+        },
+        "problemática": {
+            "Artigo_10.json": 1
+        },
+        "quais": {
+            "Artigo_10.json": 1
+        },
+        "enfrentadas": {
+            "Artigo_10.json": 1
+        },
+        "vigência": {
+            "Artigo_10.json": 1
+        },
+        "pretendeu-se": {
+            "Artigo_10.json": 1
+        },
+        "demonstrar": {
+            "Artigo_10.json": 1
+        },
+        "clara": {
+            "Artigo_10.json": 1
+        },
+        "exatamente": {
+            "Artigo_10.json": 1
+        },
+        "podendo": {
+            "Artigo_10.json": 1
+        },
+        "fornecido": {
+            "Artigo_10.json": 1
+        },
+        "possa": {
+            "Artigo_10.json": 1
+        },
+        "valer": {
+            "Artigo_10.json": 1
+        },
+        "prestadas": {
+            "Artigo_10.json": 1
+        },
+        "espera-se": {
+            "Artigo_10.json": 1
+        },
+        "leitura": {
+            "Artigo_10.json": 1
+        },
+        "leiga": {
+            "Artigo_10.json": 1
+        },
+        "atue": {
+            "Artigo_10.json": 1
+        },
+        "corretamente": {
+            "Artigo_10.json": 1
+        },
+        "afastando-se": {
+            "Artigo_10.json": 1
+        },
+        "possibilidade": {
+            "Artigo_10.json": 1
+        },
+        "penalidades": {
+            "Artigo_10.json": 1
+        },
+        "recentes": {
+            "Artigo_11.json": 1
+        },
+        "mostram": {
+            "Artigo_11.json": 1
+        },
+        "analistas": {
+            "Artigo_11.json": 1
+        },
+        "dificuldade": {
+            "Artigo_11.json": 1
+        },
+        "interpretar": {
+            "Artigo_11.json": 1
+        },
+        "obter": {
+            "Artigo_11.json": 1
+        },
+        "software": {
+            "Artigo_11.json": 3
+        },
+        "propomos": {
+            "Artigo_11.json": 1
+        },
+        "auxiliar": {
+            "Artigo_11.json": 2
+        },
+        "transformação": {
+            "Artigo_11.json": 1
+        },
+        "catálogo": {
+            "Artigo_11.json": 2
+        },
+        "padrões": {
+            "Artigo_11.json": 3,
+            "Artigo_17.json": 1
+        },
+        "reusar": {
+            "Artigo_11.json": 1
+        },
+        "alternativa": {
+            "Artigo_11.json": 1
+        },
+        "viável": {
+            "Artigo_11.json": 1
+        },
+        "profissionais": {
+            "Artigo_11.json": 1,
+            "Artigo_19.json": 1
+        },
+        "determinações": {
+            "Artigo_11.json": 1,
+            "Artigo_13.json": 1
+        },
+        "recorrentes": {
+            "Artigo_11.json": 1
+        },
+        "projetos": {
+            "Artigo_11.json": 1
+        },
+        "avaliação": {
+            "Artigo_11.json": 1
+        },
+        "preliminar": {
+            "Artigo_11.json": 1
+        },
+        "aponta": {
+            "Artigo_11.json": 1
+        },
+        "indícios": {
+            "Artigo_11.json": 1
+        },
+        "eficácia": {
+            "Artigo_11.json": 1
+        },
+        "investiga": {
+            "Artigo_12.json": 1
+        },
+        "intrínsecos": {
+            "Artigo_12.json": 1
+        },
+        "contexto": {
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 1
+        },
+        "ambientes": {
+            "Artigo_12.json": 2
+        },
+        "educacionais": {
+            "Artigo_12.json": 6
+        },
+        "convergência": {
+            "Artigo_12.json": 1
+        },
+        "salvaguardar": {
+            "Artigo_12.json": 1
+        },
+        "indivíduos": {
+            "Artigo_12.json": 1
+        },
+        "dinâmica": {
+            "Artigo_12.json": 1
+        },
+        "peculiar": {
+            "Artigo_12.json": 1
+        },
+        "práticas": {
+            "Artigo_12.json": 2
+        },
+        "complexidades": {
+            "Artigo_12.json": 1
+        },
+        "significativas": {
+            "Artigo_12.json": 1
+        },
+        "adota": {
+            "Artigo_12.json": 1
+        },
+        "abordagem": {
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "identificar": {
+            "Artigo_12.json": 1
+        },
+        "críticos": {
+            "Artigo_12.json": 1
+        },
+        "impactar": {
+            "Artigo_12.json": 1
+        },
+        "ensino": {
+            "Artigo_12.json": 1
+        },
+        "revela": {
+            "Artigo_12.json": 1
+        },
+        "gama": {
+            "Artigo_12.json": 1
+        },
+        "diversificada": {
+            "Artigo_12.json": 1
+        },
+        "inicial": {
+            "Artigo_12.json": 1
+        },
+        "sistemas": {
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 2
+        },
+        "questões": {
+            "Artigo_12.json": 1
+        },
+        "específicas": {
+            "Artigo_12.json": 1
+        },
+        "obtenção": {
+            "Artigo_12.json": 1
+        },
+        "informado": {
+            "Artigo_12.json": 1
+        },
+        "ambiente": {
+            "Artigo_12.json": 1,
+            "Artigo_20.json": 2
+        },
+        "educacional": {
+            "Artigo_12.json": 1
+        },
+        "gestão": {
+            "Artigo_12.json": 1,
+            "Artigo_19.json": 1
+        },
+        "segura": {
+            "Artigo_12.json": 1
+        },
+        "sensíveis": {
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1
+        },
+        "integração": {
+            "Artigo_12.json": 1
+        },
+        "examinadas": {
+            "Artigo_12.json": 1
+        },
+        "minuciosamente": {
+            "Artigo_12.json": 1
+        },
+        "disso": {
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 1
+        },
+        "interação": {
+            "Artigo_12.json": 1
+        },
+        "alunos": {
+            "Artigo_12.json": 1
+        },
+        "professores": {
+            "Artigo_12.json": 1
+        },
+        "administradores": {
+            "Artigo_12.json": 1
+        },
+        "considerada": {
+            "Artigo_12.json": 1
+        },
+        "ampliando": {
+            "Artigo_12.json": 1
+        },
+        "fronteiras": {
+            "Artigo_12.json": 1
+        },
+        "sala": {
+            "Artigo_12.json": 1
+        },
+        "aula": {
+            "Artigo_12.json": 1
+        },
+        "oferece": {
+            "Artigo_12.json": 1,
+            "Artigo_20.json": 1
+        },
+        "visão": {
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 1
+        },
+        "estruturada": {
+            "Artigo_12.json": 1
+        },
+        "abrangente": {
+            "Artigo_12.json": 1,
+            "Artigo_18.json": 2
+        },
+        "enfatizando": {
+            "Artigo_12.json": 1
+        },
+        "problemas": {
+            "Artigo_12.json": 1,
+            "Artigo_20.json": 2
+        },
+        "identificados": {
+            "Artigo_12.json": 1
+        },
+        "propondo": {
+            "Artigo_12.json": 1
+        },
+        "estratégias": {
+            "Artigo_12.json": 1
+        },
+        "mitigar": {
+            "Artigo_12.json": 1
+        },
+        "impactos": {
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 1,
+            "Artigo_17.json": 1
+        },
+        "adversos": {
+            "Artigo_12.json": 1
+        },
+        "destaca-se": {
+            "Artigo_12.json": 1
+        },
+        "importância": {
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 1
+        },
+        "conscientização": {
+            "Artigo_12.json": 1
+        },
+        "capacitação": {
+            "Artigo_12.json": 1
+        },
+        "implementação": {
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "robustas": {
+            "Artigo_12.json": 1
+        },
+        "governança": {
+            "Artigo_12.json": 1
+        },
+        "alinhar": {
+            "Artigo_12.json": 1
+        },
+        "busca": {
+            "Artigo_12.json": 1,
+            "Artigo_14.json": 1
+        },
+        "compreensão": {
+            "Artigo_12.json": 1,
+            "Artigo_17.json": 1
+        },
+        "crítica": {
+            "Artigo_12.json": 1
+        },
+        "dilemas": {
+            "Artigo_12.json": 1
+        },
+        "éticos": {
+            "Artigo_12.json": 1,
+            "Artigo_20.json": 1
+        },
+        "associados": {
+            "Artigo_12.json": 1
+        },
+        "destina": {
+            "Artigo_13.json": 1
+        },
+        "processuais": {
+            "Artigo_13.json": 1
+        },
+        "tutela": {
+            "Artigo_13.json": 2
+        },
+        "coletiva": {
+            "Artigo_13.json": 2
+        },
+        "repercussões": {
+            "Artigo_13.json": 1
+        },
+        "variadas": {
+            "Artigo_13.json": 1
+        },
+        "propõe-se": {
+            "Artigo_13.json": 1
+        },
+        "discutir": {
+            "Artigo_13.json": 1
+        },
+        "enfoque": {
+            "Artigo_13.json": 1
+        },
+        "seguintes": {
+            "Artigo_13.json": 1
+        },
+        "temas": {
+            "Artigo_13.json": 1
+        },
+        "i": {
+            "Artigo_13.json": 1
+        },
+        "coletivos": {
+            "Artigo_13.json": 2
+        },
+        "ii": {
+            "Artigo_13.json": 1
+        },
+        "legitimados": {
+            "Artigo_13.json": 1
+        },
+        "iii": {
+            "Artigo_13.json": 1
+        },
+        "estruturantes": {
+            "Artigo_13.json": 1
+        },
+        "demandará": {
+            "Artigo_13.json": 1
+        },
+        "razoável": {
+            "Artigo_13.json": 1
+        },
+        "esforço": {
+            "Artigo_13.json": 1
+        },
+        "atuem": {
+            "Artigo_13.json": 1
+        },
+        "acordo": {
+            "Artigo_13.json": 1
+        },
+        "significativa": {
+            "Artigo_13.json": 1
+        },
+        "probabilidade": {
+            "Artigo_13.json": 1
+        },
+        "diversas": {
+            "Artigo_13.json": 1
+        },
+        "coletivas": {
+            "Artigo_13.json": 1
+        },
+        "venham": {
+            "Artigo_13.json": 1
+        },
+        "ajuizadas": {
+            "Artigo_13.json": 1
+        },
+        "fundamento": {
+            "Artigo_13.json": 1
+        },
+        "comparativa": {
+            "Artigo_14.json": 2,
+            "Artigo_15.json": 1
+        },
+        "gdpr": {
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 5,
+            "Artigo_17.json": 1
+        },
+        "união": {
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 2
+        },
+        "europeia": {
+            "Artigo_14.json": 1,
+            "Artigo_15.json": 3,
+            "Artigo_16.json": 1,
+            "Artigo_17.json": 1
+        },
+        "econômica": {
+            "Artigo_14.json": 1
+        },
+        "considera": {
+            "Artigo_14.json": 1
+        },
+        "custos": {
+            "Artigo_14.json": 1
+        },
+        "incentivos": {
+            "Artigo_14.json": 1
+        },
+        "adoção": {
+            "Artigo_14.json": 1
+        },
+        "medidas": {
+            "Artigo_14.json": 1
+        },
+        "consequências": {
+            "Artigo_14.json": 1
+        },
+        "cumprem": {
+            "Artigo_14.json": 1
+        },
+        "concorrência": {
+            "Artigo_14.json": 1
+        },
+        "mercados": {
+            "Artigo_14.json": 1
+        },
+        "interdisciplinar": {
+            "Artigo_14.json": 1
+        },
+        "compreender": {
+            "Artigo_14.json": 1
+        },
+        "jurídicas": {
+            "Artigo_14.json": 1
+        },
+        "comportamento": {
+            "Artigo_14.json": 1
+        },
+        "humano": {
+            "Artigo_14.json": 1
+        },
+        "interações": {
+            "Artigo_14.json": 1
+        },
+        "econômicas": {
+            "Artigo_14.json": 1
+        },
+        "comparação": {
+            "Artigo_14.json": 1
+        },
+        "implicações": {
+            "Artigo_14.json": 1,
+            "Artigo_17.json": 1
+        },
+        "econômico": {
+            "Artigo_14.json": 1
+        },
+        "perante": {
+            "Artigo_14.json": 1
+        },
+        "exposto": {
+            "Artigo_14.json": 1
+        },
+        "técnica": {
+            "Artigo_14.json": 1,
+            "Artigo_18.json": 1
+        },
+        "aborda": {
+            "Artigo_15.json": 1,
+            "Artigo_18.json": 1
+        },
+        "evolução": {
+            "Artigo_15.json": 1,
+            "Artigo_16.json": 2,
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 1
+        },
+        "iniciativas": {
+            "Artigo_15.json": 1
+        },
+        "década": {
+            "Artigo_15.json": 1
+        },
+        "contemporâneas": {
+            "Artigo_15.json": 1
+        },
+        "convergências": {
+            "Artigo_15.json": 1
+        },
+        "divergências": {
+            "Artigo_15.json": 2
+        },
+        "identificando": {
+            "Artigo_15.json": 1
+        },
+        "pilares": {
+            "Artigo_15.json": 1
+        },
+        "mecanismos": {
+            "Artigo_15.json": 2
+        },
+        "cunho": {
+            "Artigo_15.json": 1
+        },
+        "descritivo": {
+            "Artigo_15.json": 1
+        },
+        "científicos": {
+            "Artigo_15.json": 1
+        },
+        "must": {
+            "Artigo_15.json": 1
+        },
+        "university": {
+            "Artigo_15.json": 1
+        },
+        "explora": {
+            "Artigo_15.json": 1,
+            "Artigo_18.json": 1
+        },
+        "trajetória": {
+            "Artigo_15.json": 1
+        },
+        "advento": {
+            "Artigo_15.json": 1
+        },
+        "unificou": {
+            "Artigo_15.json": 1
+        },
+        "estabeleceu": {
+            "Artigo_15.json": 1
+        },
+        "detalha": {
+            "Artigo_15.json": 1
+        },
+        "destacando": {
+            "Artigo_15.json": 1
+        },
+        "inspirada": {
+            "Artigo_15.json": 2,
+            "Artigo_17.json": 1
+        },
+        "modelo": {
+            "Artigo_15.json": 1
+        },
+        "fiscalização": {
+            "Artigo_15.json": 1
+        },
+        "prossegue": {
+            "Artigo_15.json": 1
+        },
+        "ressaltando": {
+            "Artigo_15.json": 1
+        },
+        "diferenças": {
+            "Artigo_15.json": 1
+        },
+        "prazos": {
+            "Artigo_15.json": 1
+        },
+        "compartilham": {
+            "Artigo_15.json": 1
+        },
+        "transparência": {
+            "Artigo_15.json": 1
+        },
+        "retificação": {
+            "Artigo_15.json": 1
+        },
+        "residem": {
+            "Artigo_15.json": 1
+        },
+        "status": {
+            "Artigo_15.json": 1
+        },
+        "operacional": {
+            "Artigo_15.json": 1
+        },
+        "autoridades": {
+            "Artigo_15.json": 1
+        },
+        "reguladoras": {
+            "Artigo_15.json": 1
+        },
+        "anpd": {
+            "Artigo_15.json": 2
+        },
+        "versus": {
+            "Artigo_15.json": 1
+        },
+        "dpas": {
+            "Artigo_15.json": 1
+        },
+        "europeias": {
+            "Artigo_15.json": 1
+        },
+        "convergem": {
+            "Artigo_15.json": 1
+        },
+        "objetivos": {
+            "Artigo_15.json": 1
+        },
+        "fortemente": {
+            "Artigo_15.json": 1
+        },
+        "sucesso": {
+            "Artigo_15.json": 1
+        },
+        "dependerá": {
+            "Artigo_15.json": 1
+        },
+        "crucialmente": {
+            "Artigo_15.json": 1
+        },
+        "plena": {
+            "Artigo_15.json": 1
+        },
+        "operacionalização": {
+            "Artigo_15.json": 1
+        },
+        "independência": {
+            "Artigo_15.json": 1
+        },
+        "garantindo": {
+            "Artigo_15.json": 1
+        },
+        "eficaz": {
+            "Artigo_15.json": 1
+        },
+        "imparcial": {
+            "Artigo_15.json": 1
+        },
+        "harmonize": {
+            "Artigo_15.json": 1
+        },
+        "avanço": {
+            "Artigo_16.json": 1
+        },
+        "informatização": {
+            "Artigo_16.json": 1
+        },
+        "tecnológico": {
+            "Artigo_16.json": 1
+        },
+        "gerou": {
+            "Artigo_16.json": 1
+        },
+        "manipulação": {
+            "Artigo_16.json": 1
+        },
+        "transferência": {
+            "Artigo_16.json": 1
+        },
+        "promove": {
+            "Artigo_16.json": 1
+        },
+        "crescentes": {
+            "Artigo_16.json": 1
+        },
+        "culminando": {
+            "Artigo_16.json": 1
+        },
+        "criação": {
+            "Artigo_16.json": 1
+        },
+        "executando": {
+            "Artigo_16.json": 1
+        },
+        "artefatos": {
+            "Artigo_16.json": 2
+        },
+        "organizacionais": {
+            "Artigo_16.json": 1
+        },
+        "úteis": {
+            "Artigo_16.json": 1
+        },
+        "promover": {
+            "Artigo_16.json": 1
+        },
+        "regulamentação": {
+            "Artigo_16.json": 1
+        },
+        "técnicas": {
+            "Artigo_16.json": 1,
+            "Artigo_18.json": 1
+        },
+        "correlação": {
+            "Artigo_16.json": 1
+        },
+        "coletados": {
+            "Artigo_16.json": 1,
+            "Artigo_20.json": 1
+        },
+        "permitiram": {
+            "Artigo_16.json": 1
+        },
+        "sugestão": {
+            "Artigo_16.json": 1
+        },
+        "executar": {
+            "Artigo_16.json": 1
+        },
+        "eficientes": {
+            "Artigo_16.json": 1
+        },
+        "delinear": {
+            "Artigo_17.json": 1
+        },
+        "causados": {
+            "Artigo_17.json": 1
+        },
+        "trabalhistas": {
+            "Artigo_17.json": 1
+        },
+        "ótica": {
+            "Artigo_17.json": 1
+        },
+        "constitucional": {
+            "Artigo_17.json": 1
+        },
+        "trabalhadores": {
+            "Artigo_17.json": 1
+        },
+        "conceituar": {
+            "Artigo_17.json": 1
+        },
+        "institutos": {
+            "Artigo_17.json": 1
+        },
+        "sujeitos": {
+            "Artigo_17.json": 1
+        },
+        "trazidos": {
+            "Artigo_17.json": 1
+        },
+        "norma": {
+            "Artigo_17.json": 1
+        },
+        "considerados": {
+            "Artigo_17.json": 1
+        },
+        "essenciais": {
+            "Artigo_17.json": 1
+        },
+        "retratado": {
+            "Artigo_17.json": 1
+        },
+        "sucinta": {
+            "Artigo_17.json": 1
+        },
+        "fases": {
+            "Artigo_17.json": 1
+        },
+        "contrato": {
+            "Artigo_17.json": 1
+        },
+        "destaque": {
+            "Artigo_17.json": 1
+        },
+        "cuidados": {
+            "Artigo_17.json": 1
+        },
+        "tomados": {
+            "Artigo_17.json": 1
+        },
+        "eliminação": {
+            "Artigo_17.json": 1
+        },
+        "observou": {
+            "Artigo_17.json": 1
+        },
+        "imposições": {
+            "Artigo_17.json": 1
+        },
+        "oriundas": {
+            "Artigo_17.json": 1
+        },
+        "cuja": {
+            "Artigo_17.json": 1
+        },
+        "ordenamento": {
+            "Artigo_17.json": 1
+        },
+        "jurídico": {
+            "Artigo_17.json": 1
+        },
+        "brasileiro": {
+            "Artigo_17.json": 1,
+            "Artigo_19.json": 1
+        },
+        "ocorreuem": {
+            "Artigo_17.json": 1
+        },
+        "general": {
+            "Artigo_17.json": 1
+        },
+        "data": {
+            "Artigo_17.json": 1,
+            "Artigo_18.json": 1
+        },
+        "protection": {
+            "Artigo_17.json": 1
+        },
+        "regulation": {
+            "Artigo_17.json": 1
+        },
+        "ademais": {
+            "Artigo_17.json": 1
+        },
+        "apertada": {
+            "Artigo_17.json": 1
+        },
+        "síntese": {
+            "Artigo_17.json": 1
+        },
+        "asatribuições": {
+            "Artigo_17.json": 1
+        },
+        "teletrabalho": {
+            "Artigo_17.json": 1
+        },
+        "trabalhista": {
+            "Artigo_17.json": 1
+        },
+        "enquanto": {
+            "Artigo_17.json": 1
+        },
+        "preservar": {
+            "Artigo_17.json": 1
+        },
+        "empregados": {
+            "Artigo_17.json": 1
+        },
+        "estabelecer": {
+            "Artigo_17.json": 1
+        },
+        "condutas": {
+            "Artigo_17.json": 1
+        },
+        "serem": {
+            "Artigo_17.json": 1
+        },
+        "aplicadas": {
+            "Artigo_17.json": 1
+        },
+        "casos": {
+            "Artigo_17.json": 1
+        },
+        "concretos": {
+            "Artigo_17.json": 1
+        },
+        "prevenir": {
+            "Artigo_17.json": 1
+        },
+        "sujeição": {
+            "Artigo_17.json": 1
+        },
+        "administrativas": {
+            "Artigo_17.json": 1
+        },
+        "vigerão": {
+            "Artigo_17.json": 1
+        },
+        "2021": {
+            "Artigo_17.json": 1
+        },
+        "reporta": {
+            "Artigo_17.json": 1
+        },
+        "noções": {
+            "Artigo_17.json": 1
+        },
+        "adequado": {
+            "Artigo_17.json": 1
+        },
+        "requer": {
+            "Artigo_18.json": 1
+        },
+        "organizacional": {
+            "Artigo_18.json": 1
+        },
+        "destaca": {
+            "Artigo_18.json": 1
+        },
+        "várias": {
+            "Artigo_18.json": 1
+        },
+        "ferramentas": {
+            "Artigo_18.json": 4
+        },
+        "desempenham": {
+            "Artigo_18.json": 1
+        },
+        "papel": {
+            "Artigo_18.json": 1
+        },
+        "gerenciamento": {
+            "Artigo_18.json": 2
+        },
+        "incluem-se": {
+            "Artigo_18.json": 1
+        },
+        "dms": {
+            "Artigo_18.json": 1
+        },
+        "catalogar": {
+            "Artigo_18.json": 1
+        },
+        "monitorar": {
+            "Artigo_18.json": 1
+        },
+        "anonimização": {
+            "Artigo_18.json": 1
+        },
+        "pseudonimização": {
+            "Artigo_18.json": 1
+        },
+        "proteger": {
+            "Artigo_18.json": 2
+        },
+        "plataformas": {
+            "Artigo_18.json": 1
+        },
+        "preferências": {
+            "Artigo_18.json": 1
+        },
+        "soluções": {
+            "Artigo_18.json": 1
+        },
+        "criptografia": {
+            "Artigo_18.json": 1,
+            "Artigo_20.json": 4
+        },
+        "auditoria": {
+            "Artigo_18.json": 1
+        },
+        "avançadas": {
+            "Artigo_18.json": 1
+        },
+        "big": {
+            "Artigo_18.json": 1
+        },
+        "machine": {
+            "Artigo_18.json": 1
+        },
+        "learning": {
+            "Artigo_18.json": 1
+        },
+        "empregadas": {
+            "Artigo_18.json": 1
+        },
+        "melhorar": {
+            "Artigo_18.json": 1
+        },
+        "design": {
+            "Artigo_18.json": 1
+        },
+        "interseção": {
+            "Artigo_18.json": 1
+        },
+        "descoberta": {
+            "Artigo_18.json": 1
+        },
+        "eletrônica": {
+            "Artigo_18.json": 1
+        },
+        "ediscovery": {
+            "Artigo_18.json": 1
+        },
+        "fornecendo": {
+            "Artigo_18.json": 1
+        },
+        "cenário": {
+            "Artigo_18.json": 1
+        },
+        "constante": {
+            "Artigo_18.json": 1
+        },
+        "adotou-se": {
+            "Artigo_18.json": 1
+        },
+        "documental": {
+            "Artigo_18.json": 1
+        },
+        "hipotético-dedutivo": {
+            "Artigo_18.json": 1
+        },
+        "apontar": {
+            "Artigo_19.json": 1
+        },
+        "contribuições": {
+            "Artigo_19.json": 1
+        },
+        "arquivologia": {
+            "Artigo_19.json": 1
+        },
+        "especificamente": {
+            "Artigo_19.json": 1
+        },
+        "documentos": {
+            "Artigo_19.json": 1
+        },
+        "gd": {
+            "Artigo_19.json": 2
+        },
+        "implantação": {
+            "Artigo_19.json": 1
+        },
+        "utiliza": {
+            "Artigo_19.json": 1
+        },
+        "procedimento": {
+            "Artigo_19.json": 1
+        },
+        "metodológico": {
+            "Artigo_19.json": 1
+        },
+        "natureza": {
+            "Artigo_19.json": 1
+        },
+        "qualitativa": {
+            "Artigo_19.json": 1
+        },
+        "tipo": {
+            "Artigo_19.json": 1
+        },
+        "conclui": {
+            "Artigo_19.json": 1
+        },
+        "dominado": {
+            "Artigo_19.json": 1
+        },
+        "arquivista": {
+            "Artigo_19.json": 1
+        },
+        "efetivamente": {
+            "Artigo_19.json": 1
+        },
+        "tecnológica": {
+            "Artigo_20.json": 1
+        },
+        "privadas": {
+            "Artigo_20.json": 3
+        },
+        "consonância": {
+            "Artigo_20.json": 1
+        },
+        "trata-se": {
+            "Artigo_20.json": 1
+        },
+        "ambas": {
+            "Artigo_20.json": 1
+        },
+        "proporcionar": {
+            "Artigo_20.json": 1
+        },
+        "bibliográficos": {
+            "Artigo_20.json": 1
+        },
+        "biblioteca": {
+            "Artigo_20.json": 1
+        },
+        "virtual": {
+            "Artigo_20.json": 2
+        },
+        "saúde-": {
+            "Artigo_20.json": 1
+        },
+        "bvs": {
+            "Artigo_20.json": 1
+        },
+        "externos": {
+            "Artigo_20.json": 1
+        },
+        "utilizamos": {
+            "Artigo_20.json": 1
+        },
+        "criptografados": {
+            "Artigo_20.json": 1
+        },
+        "setor": {
+            "Artigo_20.json": 2
+        },
+        "privado": {
+            "Artigo_20.json": 1
+        },
+        "construção": {
+            "Artigo_20.json": 1
+        },
+        "incluídos": {
+            "Artigo_20.json": 1
+        },
+        "tratavam": {
+            "Artigo_20.json": 1
+        },
+        "surgimento": {
+            "Artigo_20.json": 2
+        },
+        "cibernética": {
+            "Artigo_20.json": 1
+        },
+        "critério": {
+            "Artigo_20.json": 1
+        },
+        "exclusão": {
+            "Artigo_20.json": 1
+        },
+        "eliminamos": {
+            "Artigo_20.json": 1
+        },
+        "ramo": {
+            "Artigo_20.json": 1
+        },
+        "escritos": {
+            "Artigo_20.json": 1
+        },
+        "datas": {
+            "Artigo_20.json": 1
+        },
+        "abaixo": {
+            "Artigo_20.json": 1
+        },
+        "2015": {
+            "Artigo_20.json": 1
+        },
+        "leis": {
+            "Artigo_20.json": 1
+        },
+        "brasileiras": {
+            "Artigo_20.json": 1
+        },
+        "elaboradas": {
+            "Artigo_20.json": 1
+        },
+        "condiz": {
+            "Artigo_20.json": 1
+        },
+        "estado": {
+            "Artigo_20.json": 1
+        },
+        "vulneráveis": {
+            "Artigo_20.json": 1
+        },
+        "espionagem": {
+            "Artigo_20.json": 1
+        },
+        "ataques": {
+            "Artigo_20.json": 1
+        },
+        "hackers": {
+            "Artigo_20.json": 1
+        },
+        "evidenciado": {
+            "Artigo_20.json": 1
+        },
+        "divulgações": {
+            "Artigo_20.json": 1
+        },
+        "áudios": {
+            "Artigo_20.json": 1
+        },
+        "poderes": {
+            "Artigo_20.json": 1
+        },
+        "narrativas": {
+            "Artigo_20.json": 1
+        },
+        "justificamos": {
+            "Artigo_20.json": 1
+        },
+        "aumento": {
+            "Artigo_20.json": 1
+        },
+        "investimento": {
+            "Artigo_20.json": 1
+        },
+        "setores": {
+            "Artigo_20.json": 2
+        },
+        "tl": {
+            "Artigo_20.json": 1
+        },
+        "corporativo": {
+            "Artigo_20.json": 1
+        },
+        "tomando": {
+            "Artigo_20.json": 1
+        },
+        "terceiros": {
+            "Artigo_20.json": 1
+        },
+        "prospere": {
+            "Artigo_20.json": 1
+        },
+        "medida": {
+            "Artigo_20.json": 1
+        },
+        "defesa": {
+            "Artigo_20.json": 1
+        },
+        "ameaças": {
+            "Artigo_20.json": 1
+        },
+        "cibernéticas": {
+            "Artigo_20.json": 1
+        },
+        "complexo": {
+            "Artigo_20.json": 1
+        },
+        "adotam": {
+            "Artigo_20.json": 1
+        },
+        "protegem": {
+            "Artigo_20.json": 1
+        },
+        "colaboradores": {
+            "Artigo_20.json": 1
+        },
+        "posicionam-se": {
+            "Artigo_20.json": 1
+        },
+        "líderes": {
+            "Artigo_20.json": 1
+        }
+    },
+    "idf": {
+        "globalização": 2.302585092994046,
+        "desenvolvimento": 1.3862943611198906,
+        "tecnologias": 1.6094379124341003,
+        "desenvolve": 2.302585092994046,
+        "competição": 2.302585092994046,
+        "voraz": 2.302585092994046,
+        "empresas": 0.9162907318741551,
+        "desenvolvendo": 2.302585092994046,
+        "questionamentos": 2.302585092994046,
+        "segurança": 1.2039728043259361,
+        "informações": 0.9162907318741551,
+        "corporativas": 2.302585092994046,
+        "clientes": 2.302585092994046,
+        "apesar": 1.8971199848858813,
+        "entrar": 2.302585092994046,
+        "vigor": 2.302585092994046,
+        "evidente": 2.995732273553991,
+        "discute": 2.995732273553991,
+        "literatura": 1.8971199848858813,
+        "adaptabilidade": 2.995732273553991,
+        "tecnologia": 1.6094379124341003,
+        "informação": 1.8971199848858813,
+        "lgpd": 0.05129329438755048,
+        "traz": 1.8971199848858813,
+        "insegurança": 2.995732273553991,
+        "jurídica": 2.995732273553991,
+        "será": 2.995732273553991,
+        "aplicabilidade": 1.8971199848858813,
+        "lei": 0.10536051565782635,
+        "atitudes": 2.995732273553991,
+        "devem": 1.8971199848858813,
+        "tomadas": 2.302585092994046,
+        "visando": 2.302585092994046,
+        "compliance": 2.302585092994046,
+        "artigo": 0.10536051565782635,
+        "objetivo": 0.9162907318741551,
+        "reunir": 2.995732273553991,
+        "pesquisa": 0.9162907318741551,
+        "sistemática": 2.302585092994046,
+        "período": 2.995732273553991,
+        "artigos": 1.0498221244986776,
+        "englobam": 2.995732273553991,
+        "proteção": 0.10536051565782635,
+        "dados": 0.05129329438755048,
+        "pessoais": 0.43078291609245434,
+        "finalidade": 2.302585092994046,
+        "centralizar": 2.995732273553991,
+        "correntes": 2.995732273553991,
+        "comunidade": 2.995732273553991,
+        "cientifica": 2.995732273553991,
+        "dele": 2.995732273553991,
+        "delimitar": 2.995732273553991,
+        "futuros": 2.995732273553991,
+        "desafios": 1.6094379124341003,
+        "facilitar": 2.995732273553991,
+        "acesso": 1.8971199848858813,
+        "tema": 1.8971199848858813,
+        "ebscohost": 2.995732273553991,
+        "google": 2.995732273553991,
+        "scholar": 2.995732273553991,
+        "presente": 1.0498221244986776,
+        "visa": 2.302585092994046,
+        "analisar": 1.2039728043259361,
+        "bases": 1.8971199848858813,
+        "legais": 1.2039728043259361,
+        "tratamento": 1.0498221244986776,
+        "brasileira": 1.3862943611198906,
+        "-": 1.8971199848858813,
+        "n": 1.3862943611198906,
+        "13": 1.2039728043259361,
+        "709": 1.2039728043259361,
+        "18": 2.302585092994046,
+        "necessidade": 1.8971199848858813,
+        "regra": 2.995732273553991,
+        "enquadrar": 2.995732273553991,
+        "base": 1.3862943611198906,
+        "legal": 1.6094379124341003,
+        "determinada": 2.995732273553991,
+        "mostra-se": 2.995732273553991,
+        "relevante": 2.995732273553991,
+        "estudar": 2.995732273553991,
+        "possibilidades": 2.995732273553991,
+        "positivadas": 2.995732273553991,
+        "7": 2.995732273553991,
+        "11": 2.995732273553991,
+        "especialmente": 2.995732273553991,
+        "hipóteses": 2.995732273553991,
+        "consentimento": 1.8971199848858813,
+        "legítimo": 2.302585092994046,
+        "interesse": 1.8971199848858813,
+        "entender": 2.302585092994046,
+        "aplicação": 2.302585092994046,
+        "fundamental": 2.302585092994046,
+        "garantir": 2.995732273553991,
+        "relações": 2.302585092994046,
+        "evitar": 2.995732273553991,
+        "direitos": 1.3862943611198906,
+        "liberdades": 2.995732273553991,
+        "titulares": 1.3862943611198906,
+        "sejam": 1.8971199848858813,
+        "ameaçados": 2.995732273553991,
+        "sofram": 2.995732273553991,
+        "danos": 2.995732273553991,
+        "serão": 2.302585092994046,
+        "analisadas": 2.995732273553991,
+        "principalmente": 2.302585092994046,
+        "doutrina": 2.995732273553991,
+        "referências": 2.995732273553991,
+        "versam": 2.995732273553991,
+        "regulamento": 1.8971199848858813,
+        "europeu": 2.302585092994046,
+        "estudo": 1.2039728043259361,
+        "objetiva": 2.302585092994046,
+        "método": 1.2039728043259361,
+        "indutivo": 2.995732273553991,
+        "bibliográfica": 0.9162907318741551,
+        "proceder": 2.995732273553991,
+        "análise": 1.0498221244986776,
+        "conferido": 2.995732273553991,
+        "processos": 2.302585092994046,
+        "coleta": 1.6094379124341003,
+        "crianças": 2.995732273553991,
+        "adolescentes": 2.995732273553991,
+        "abordando": 2.995732273553991,
+        "conceito": 2.302585092994046,
+        "criança": 2.995732273553991,
+        "adolescente": 2.995732273553991,
+        "estatuto": 2.995732273553991,
+        "passando": 2.302585092994046,
+        "ideias": 2.995732273553991,
+        "principais": 1.0498221244986776,
+        "apresentado": 2.302585092994046,
+        "conformidade": 1.2039728043259361,
+        "conjunto": 1.8971199848858813,
+        "normas": 1.8971199848858813,
+        "protetivas": 2.995732273553991,
+        "categorias": 2.302585092994046,
+        "pessoas": 2.302585092994046,
+        "observando-se": 2.995732273553991,
+        "sobretudo": 2.995732273553991,
+        "melhor": 2.995732273553991,
+        "representam": 2.995732273553991,
+        "foco": 2.995732273553991,
+        "revolução": 2.995732273553991,
+        "digital": 1.8971199848858813,
+        "gradualmente": 2.995732273553991,
+        "privacidade": 1.0498221244986776,
+        "intimidade": 2.302585092994046,
+        "tornaram": 2.995732273553991,
+        "necessárias": 1.8971199848858813,
+        "particular": 2.995732273553991,
+        "cidadãos": 2.995732273553991,
+        "regulamentada": 2.995732273553991,
+        "levando": 2.995732273553991,
+        "brasil": 1.2039728043259361,
+        "patamar": 2.995732273553991,
+        "realidade": 2.995732273553991,
+        "princípios": 1.8971199848858813,
+        "obrigações": 2.995732273553991,
+        "relacionados": 1.6094379124341003,
+        "reúne": 2.995732273553991,
+        "elementos": 2.995732273553991,
+        "controle": 2.995732273553991,
+        "possibilitando": 2.995732273553991,
+        "cumprimento": 1.8971199848858813,
+        "garantias": 2.302585092994046,
+        "previstas": 2.302585092994046,
+        "cujo": 2.995732273553991,
+        "lastro": 2.995732273553991,
+        "funda": 2.995732273553991,
+        "humanos": 2.995732273553991,
+        "resguarda": 2.995732273553991,
+        "fundamentais": 1.6094379124341003,
+        "direito": 1.6094379124341003,
+        "liberdade": 2.302585092994046,
+        "livre": 2.995732273553991,
+        "personalidade": 2.995732273553991,
+        "pessoa": 2.302585092994046,
+        "enunciando": 2.995732273553991,
+        "boa-fé": 2.995732273553991,
+        "regras": 2.302585092994046,
+        "controles": 2.302585092994046,
+        "assegurar": 2.995732273553991,
+        "sentido": 2.995732273553991,
+        "apresenta": 1.8971199848858813,
+        "introdução": 2.995732273553991,
+        "descreve": 2.995732273553991,
+        "linhas": 2.995732273553991,
+        "gerais": 2.995732273553991,
+        "2018": 1.2039728043259361,
+        "posteriormente": 2.995732273553991,
+        "explana-se": 2.995732273553991,
+        "respeito": 1.6094379124341003,
+        "procedimentos": 2.995732273553991,
+        "metodológicos": 2.995732273553991,
+        "revisão": 1.2039728043259361,
+        "narrativa": 2.995732273553991,
+        "dando": 2.995732273553991,
+        "robustez": 2.995732273553991,
+        "embasamento": 2.995732273553991,
+        "apresenta-se": 2.995732273553991,
+        "fundamentação": 2.995732273553991,
+        "teórica": 2.995732273553991,
+        "importantes": 2.995732273553991,
+        "regulados": 2.995732273553991,
+        "referida": 2.302585092994046,
+        "jurídicos": 2.302585092994046,
+        "agentes": 1.6094379124341003,
+        "responsabilidades": 2.995732273553991,
+        "seguida": 2.995732273553991,
+        "encontra-se": 2.995732273553991,
+        "discussão": 2.302585092994046,
+        "assunto": 2.995732273553991,
+        "apresentada": 2.995732273553991,
+        "conclusão": 2.302585092994046,
+        "verificar": 2.995732273553991,
+        "quantidade": 2.995732273553991,
+        "publicados": 2.995732273553991,
+        "periódico": 2.995732273553991,
+        "capes": 2.995732273553991,
+        "cafe": 2.995732273553991,
+        "agosto": 2.302585092994046,
+        "2024": 2.995732273553991,
+        "considerando": 2.302585092994046,
+        "publicações": 2.302585092994046,
+        "vinculadas": 2.995732273553991,
+        "organizações": 2.995732273553991,
+        "instituições": 2.302585092994046,
+        "públicas": 2.995732273553991,
+        "metodologia": 1.0498221244986776,
+        "utilizada": 1.8971199848858813,
+        "integrativa": 2.995732273553991,
+        "perspectiva": 1.8971199848858813,
+        "utilização": 1.8971199848858813,
+        "deu": 2.995732273553991,
+        "procura": 2.995732273553991,
+        "utilizando-se": 2.995732273553991,
+        "descritores": 2.302585092994046,
+        "relacionado": 2.995732273553991,
+        "visualizado": 2.995732273553991,
+        "relativa": 2.995732273553991,
+        "existente": 2.995732273553991,
+        "utilizar": 2.995732273553991,
+        "filtros": 2.995732273553991,
+        "disponíveis": 2.302585092994046,
+        "6": 2.995732273553991,
+        "correspondiam": 2.995732273553991,
+        "propósito": 2.995732273553991,
+        "resultados": 1.8971199848858813,
+        "encontrados": 2.302585092994046,
+        "relevantes": 2.302585092994046,
+        "visto": 2.995732273553991,
+        "existe": 2.995732273553991,
+        "variação": 2.995732273553991,
+        "aspectos": 1.6094379124341003,
+        "pesquisas": 2.995732273553991,
+        "temática": 2.302585092994046,
+        "abordada": 2.302585092994046,
+        "campo": 2.995732273553991,
+        "conhecimento": 2.995732273553991,
+        "científico": 2.995732273553991,
+        "destacar": 2.995732273553991,
+        "variada": 2.995732273553991,
+        "métodos": 2.302585092994046,
+        "realizar": 2.302585092994046,
+        "trabalhos": 2.302585092994046,
+        "verificou": 2.995732273553991,
+        "tais": 2.302585092994046,
+        "ações": 1.3862943611198906,
+        "proporcionaram": 2.995732273553991,
+        "valor": 2.995732273553991,
+        "agregado": 2.995732273553991,
+        "conteúdo": 2.302585092994046,
+        "abordado": 2.302585092994046,
+        "sociedade": 1.8971199848858813,
+        "trata": 1.8971199848858813,
+        "interpretação": 2.302585092994046,
+        "20": 2.995732273553991,
+        "outorga": 2.995732273553991,
+        "decisões": 2.302585092994046,
+        "afetem": 2.995732273553991,
+        "interesses": 2.302585092994046,
+        "unicamente": 2.995732273553991,
+        "automatizado": 2.995732273553991,
+        "buscou-se": 2.302585092994046,
+        "contribuir": 1.8971199848858813,
+        "confirme": 2.995732273553991,
+        "efetividade": 2.995732273553991,
+        "autodeterminação": 2.995732273553991,
+        "discriminação": 2.995732273553991,
+        "impeça": 2.995732273553991,
+        "inovação": 1.8971199848858813,
+        "produtos": 2.995732273553991,
+        "serviços": 2.995732273553991,
+        "suportados": 2.995732273553991,
+        "uso": 2.995732273553991,
+        "inclusive": 2.995732273553991,
+        "via": 2.995732273553991,
+        "segredo": 2.995732273553991,
+        "empresarial": 2.302585092994046,
+        "industrial": 2.995732273553991,
+        "comercial": 2.995732273553991,
+        "atual": 2.995732273553991,
+        "preponderância": 2.995732273553991,
+        "modelos": 2.302585092994046,
+        "negócio": 1.8971199848858813,
+        "dependem": 2.995732273553991,
+        "processamento": 2.302585092994046,
+        "massivo": 2.995732273553991,
+        "tem-se": 2.995732273553991,
+        "ouvido": 2.995732273553991,
+        "relado": 2.995732273553991,
+        "muitas": 2.995732273553991,
+        "dificuldades": 2.302585092994046,
+        "entendimento": 2.995732273553991,
+        "implementar": 2.995732273553991,
+        "previstos": 2.995732273553991,
+        "adequação": 2.302585092994046,
+        "realmente": 2.995732273553991,
+        "necessária": 2.995732273553991,
+        "resultado": 2.995732273553991,
+        "mapeamento": 2.302585092994046,
+        "requisitos": 1.8971199848858813,
+        "listados": 2.995732273553991,
+        "instituição": 2.302585092994046,
+        "financeira": 2.995732273553991,
+        "controlado": 2.995732273553991,
+        "mundial": 2.995732273553991,
+        "filiais": 2.995732273553991,
+        "mundo": 2.995732273553991,
+        "inteiro": 2.995732273553991,
+        "descrita": 2.995732273553991,
+        "resultou": 2.995732273553991,
+        "diagnóstico": 2.995732273553991,
+        "recomendações": 2.302585092994046,
+        "adequar": 2.302585092994046,
+        "empresa": 2.302585092994046,
+        "escolhido": 2.995732273553991,
+        "junto": 2.995732273553991,
+        "sites": 2.302585092994046,
+        "especializados": 2.995732273553991,
+        "livros": 1.8971199848858813,
+        "revistas": 2.995732273553991,
+        "congressos": 2.995732273553991,
+        "nacionais": 2.995732273553991,
+        "internacionais": 2.995732273553991,
+        "pesquisa-ação": 2.995732273553991,
+        "caso": 2.302585092994046,
+        "combinação": 2.995732273553991,
+        "diferentes": 1.3862943611198906,
+        "teorias": 2.995732273553991,
+        "fontes": 2.995732273553991,
+        "ajudar": 2.302585092994046,
+        "superar": 2.995732273553991,
+        "viés": 2.995732273553991,
+        "natural": 2.995732273553991,
+        "atinge": 2.995732273553991,
+        "estudos": 2.302585092994046,
+        "abordagens": 2.995732273553991,
+        "singulares": 2.995732273553991,
+        "denzin": 2.995732273553991,
+        "1970": 2.302585092994046,
+        "oferecer": 2.995732273553991,
+        "resposta": 2.995732273553991,
+        "robusta": 2.302585092994046,
+        "proposta": 2.995732273553991,
+        "produzida": 2.995732273553991,
+        "desenho": 2.995732273553991,
+        "somente": 2.995732273553991,
+        "quantitativo": 2.995732273553991,
+        "qualitativo": 2.302585092994046,
+        "yin": 2.995732273553991,
+        "2006": 2.995732273553991,
+        "mostraram": 2.995732273553991,
+        "325": 2.995732273553991,
+        "determinados": 2.995732273553991,
+        "analisados": 2.995732273553991,
+        "117": 2.995732273553991,
+        "itens": 2.995732273553991,
+        "36": 2.995732273553991,
+        "atendidos": 2.995732273553991,
+        "plenamente": 2.995732273553991,
+        "67": 2.995732273553991,
+        "21": 2.995732273553991,
+        "atendem": 2.995732273553991,
+        "parcialmente": 2.995732273553991,
+        "141": 2.995732273553991,
+        "43": 2.995732273553991,
+        "necessidades": 2.995732273553991,
+        "constatou-se": 2.995732273553991,
+        "elevado": 2.995732273553991,
+        "risco": 2.302585092994046,
+        "incorrer": 2.995732273553991,
+        "conformidades": 2.995732273553991,
+        "aplicada": 2.302585092994046,
+        "legislação": 1.8971199848858813,
+        "advinda": 2.995732273553991,
+        "principal": 1.8971199848858813,
+        "apresentar": 1.8971199848858813,
+        "mudanças": 2.995732273553991,
+        "trazidas": 2.995732273553991,
+        "rotina": 2.995732273553991,
+        "contabilidade": 2.995732273553991,
+        "consequentes": 2.995732273553991,
+        "adequações": 2.995732273553991,
+        "busca-se": 2.995732273553991,
+        "evidenciar": 2.995732273553991,
+        "fundamentos": 2.302585092994046,
+        "dispositivo": 2.995732273553991,
+        "riscos": 2.995732273553991,
+        "influência": 2.995732273553991,
+        "operações": 2.995732273553991,
+        "procurou": 2.995732273553991,
+        "modo": 2.995732273553991,
+        "expor": 2.995732273553991,
+        "aplicar": 2.995732273553991,
+        "adequá-lo": 2.995732273553991,
+        "torná-lo": 2.995732273553991,
+        "seguro": 2.995732273553991,
+        "protegê-lo": 2.995732273553991,
+        "sanções": 1.8971199848858813,
+        "desenvolver": 2.302585092994046,
+        "utilizadas": 2.995732273553991,
+        "descritiva": 1.8971199848858813,
+        "exploratória": 2.302585092994046,
+        "realizada": 2.995732273553991,
+        "conclui-se": 1.8971199848858813,
+        "precisam": 2.995732273553991,
+        "tendo": 2.995732273553991,
+        "vista": 2.995732273553991,
+        "impacto": 2.302585092994046,
+        "negativo": 2.995732273553991,
+        "sujeitas": 2.995732273553991,
+        "multas": 2.995732273553991,
+        "corre": 2.995732273553991,
+        "perder": 2.995732273553991,
+        "credibilidade": 2.995732273553991,
+        "mercado": 2.302585092994046,
+        "esteja": 2.995732273553991,
+        "envolvida": 2.995732273553991,
+        "eventos": 2.995732273553991,
+        "vazamento": 2.302585092994046,
+        "dentre": 2.995732273553991,
+        "contrapartida": 2.995732273553991,
+        "percebeu-se": 2.995732273553991,
+        "chegada": 2.995732273553991,
+        "oportunidades": 2.995732273553991,
+        "melhoria": 2.995732273553991,
+        "últimos": 2.995732273553991,
+        "identificou-se": 2.995732273553991,
+        "crescimento": 2.995732273553991,
+        "notável": 2.995732273553991,
+        "pequenos": 2.995732273553991,
+        "dispositivos": 2.995732273553991,
+        "tecnológicos": 2.302585092994046,
+        "conectados": 2.995732273553991,
+        "internet": 2.995732273553991,
+        "trocando": 2.995732273553991,
+        "gerando": 2.995732273553991,
+        "coisas": 2.995732273553991,
+        "of": 2.995732273553991,
+        "things": 2.995732273553991,
+        "iot": 2.995732273553991,
+        "apoiando": 2.995732273553991,
+        "diversos": 2.995732273553991,
+        "sensores": 2.995732273553991,
+        "cardíacos": 2.995732273553991,
+        "healthcare": 2.995732273553991,
+        "relógios": 2.995732273553991,
+        "micro-ondas": 2.995732273553991,
+        "terremotos": 2.995732273553991,
+        "furacões": 2.995732273553991,
+        "tsunamis": 2.995732273553991,
+        "sendo": 1.6094379124341003,
+        "moderna": 2.995732273553991,
+        "existam": 2.995732273553991,
+        "inúmeras": 2.995732273553991,
+        "preocupações": 2.302585092994046,
+        "restrição": 2.995732273553991,
+        "memoria": 2.995732273553991,
+        "bandwidth": 2.995732273553991,
+        "energia": 2.995732273553991,
+        "devido": 2.995732273553991,
+        "tamanho": 2.302585092994046,
+        "reduzido": 2.995732273553991,
+        "sabe-se": 2.995732273553991,
+        "alcançar": 2.995732273553991,
+        "níveis": 2.995732273553991,
+        "necessários": 2.995732273553991,
+        "afim": 2.995732273553991,
+        "cumprir": 2.995732273553991,
+        "legislações": 1.8971199848858813,
+        "países": 2.995732273553991,
+        "iremos": 2.995732273553991,
+        "abordar": 2.302585092994046,
+        "usuários": 2.995732273553991,
+        "transmissão": 2.995732273553991,
+        "armazenamento": 2.995732273553991,
+        "sigilosos": 2.995732273553991,
+        "descritos": 2.995732273553991,
+        "falamos": 2.995732273553991,
+        "restritos": 2.995732273553991,
+        "abordados": 2.995732273553991,
+        "conceitos": 2.995732273553991,
+        "requeridos": 2.995732273553991,
+        "problemática": 2.995732273553991,
+        "quais": 2.995732273553991,
+        "enfrentadas": 2.995732273553991,
+        "vigência": 2.995732273553991,
+        "pretendeu-se": 2.995732273553991,
+        "demonstrar": 2.995732273553991,
+        "clara": 2.995732273553991,
+        "exatamente": 2.995732273553991,
+        "podendo": 2.995732273553991,
+        "fornecido": 2.995732273553991,
+        "possa": 2.995732273553991,
+        "valer": 2.995732273553991,
+        "prestadas": 2.995732273553991,
+        "espera-se": 2.995732273553991,
+        "leitura": 2.995732273553991,
+        "leiga": 2.995732273553991,
+        "atue": 2.995732273553991,
+        "corretamente": 2.995732273553991,
+        "afastando-se": 2.995732273553991,
+        "possibilidade": 2.995732273553991,
+        "penalidades": 2.995732273553991,
+        "recentes": 2.995732273553991,
+        "mostram": 2.995732273553991,
+        "analistas": 2.995732273553991,
+        "dificuldade": 2.995732273553991,
+        "interpretar": 2.995732273553991,
+        "obter": 2.995732273553991,
+        "software": 2.995732273553991,
+        "propomos": 2.995732273553991,
+        "auxiliar": 2.995732273553991,
+        "transformação": 2.995732273553991,
+        "catálogo": 2.995732273553991,
+        "padrões": 2.302585092994046,
+        "reusar": 2.995732273553991,
+        "alternativa": 2.995732273553991,
+        "viável": 2.995732273553991,
+        "profissionais": 2.302585092994046,
+        "determinações": 2.302585092994046,
+        "recorrentes": 2.995732273553991,
+        "projetos": 2.995732273553991,
+        "avaliação": 2.995732273553991,
+        "preliminar": 2.995732273553991,
+        "aponta": 2.995732273553991,
+        "indícios": 2.995732273553991,
+        "eficácia": 2.995732273553991,
+        "investiga": 2.995732273553991,
+        "intrínsecos": 2.995732273553991,
+        "contexto": 2.302585092994046,
+        "ambientes": 2.995732273553991,
+        "educacionais": 2.995732273553991,
+        "convergência": 2.995732273553991,
+        "salvaguardar": 2.995732273553991,
+        "indivíduos": 2.995732273553991,
+        "dinâmica": 2.995732273553991,
+        "peculiar": 2.995732273553991,
+        "práticas": 2.995732273553991,
+        "complexidades": 2.995732273553991,
+        "significativas": 2.995732273553991,
+        "adota": 2.995732273553991,
+        "abordagem": 1.6094379124341003,
+        "identificar": 2.995732273553991,
+        "críticos": 2.995732273553991,
+        "impactar": 2.995732273553991,
+        "ensino": 2.995732273553991,
+        "revela": 2.995732273553991,
+        "gama": 2.995732273553991,
+        "diversificada": 2.995732273553991,
+        "inicial": 2.995732273553991,
+        "sistemas": 2.302585092994046,
+        "questões": 2.995732273553991,
+        "específicas": 2.995732273553991,
+        "obtenção": 2.995732273553991,
+        "informado": 2.995732273553991,
+        "ambiente": 2.302585092994046,
+        "educacional": 2.995732273553991,
+        "gestão": 2.302585092994046,
+        "segura": 2.995732273553991,
+        "sensíveis": 2.302585092994046,
+        "integração": 2.995732273553991,
+        "examinadas": 2.995732273553991,
+        "minuciosamente": 2.995732273553991,
+        "disso": 2.302585092994046,
+        "interação": 2.995732273553991,
+        "alunos": 2.995732273553991,
+        "professores": 2.995732273553991,
+        "administradores": 2.995732273553991,
+        "considerada": 2.995732273553991,
+        "ampliando": 2.995732273553991,
+        "fronteiras": 2.995732273553991,
+        "sala": 2.995732273553991,
+        "aula": 2.995732273553991,
+        "oferece": 2.302585092994046,
+        "visão": 2.302585092994046,
+        "estruturada": 2.995732273553991,
+        "abrangente": 2.302585092994046,
+        "enfatizando": 2.995732273553991,
+        "problemas": 2.302585092994046,
+        "identificados": 2.995732273553991,
+        "propondo": 2.995732273553991,
+        "estratégias": 2.995732273553991,
+        "mitigar": 2.995732273553991,
+        "impactos": 1.8971199848858813,
+        "adversos": 2.995732273553991,
+        "destaca-se": 2.995732273553991,
+        "importância": 1.8971199848858813,
+        "conscientização": 2.995732273553991,
+        "capacitação": 2.995732273553991,
+        "implementação": 1.6094379124341003,
+        "robustas": 2.995732273553991,
+        "governança": 2.995732273553991,
+        "alinhar": 2.995732273553991,
+        "busca": 2.302585092994046,
+        "compreensão": 2.302585092994046,
+        "crítica": 2.995732273553991,
+        "dilemas": 2.995732273553991,
+        "éticos": 2.302585092994046,
+        "associados": 2.995732273553991,
+        "destina": 2.995732273553991,
+        "processuais": 2.995732273553991,
+        "tutela": 2.995732273553991,
+        "coletiva": 2.995732273553991,
+        "repercussões": 2.995732273553991,
+        "variadas": 2.995732273553991,
+        "propõe-se": 2.995732273553991,
+        "discutir": 2.995732273553991,
+        "enfoque": 2.995732273553991,
+        "seguintes": 2.995732273553991,
+        "temas": 2.995732273553991,
+        "i": 2.995732273553991,
+        "coletivos": 2.995732273553991,
+        "ii": 2.995732273553991,
+        "legitimados": 2.995732273553991,
+        "iii": 2.995732273553991,
+        "estruturantes": 2.995732273553991,
+        "demandará": 2.995732273553991,
+        "razoável": 2.995732273553991,
+        "esforço": 2.995732273553991,
+        "atuem": 2.995732273553991,
+        "acordo": 2.995732273553991,
+        "significativa": 2.995732273553991,
+        "probabilidade": 2.995732273553991,
+        "diversas": 2.995732273553991,
+        "coletivas": 2.995732273553991,
+        "venham": 2.995732273553991,
+        "ajuizadas": 2.995732273553991,
+        "fundamento": 2.995732273553991,
+        "comparativa": 2.302585092994046,
+        "gdpr": 1.8971199848858813,
+        "união": 2.302585092994046,
+        "europeia": 1.6094379124341003,
+        "econômica": 2.995732273553991,
+        "considera": 2.995732273553991,
+        "custos": 2.995732273553991,
+        "incentivos": 2.995732273553991,
+        "adoção": 2.995732273553991,
+        "medidas": 2.995732273553991,
+        "consequências": 2.995732273553991,
+        "cumprem": 2.995732273553991,
+        "concorrência": 2.995732273553991,
+        "mercados": 2.995732273553991,
+        "interdisciplinar": 2.995732273553991,
+        "compreender": 2.995732273553991,
+        "jurídicas": 2.995732273553991,
+        "comportamento": 2.995732273553991,
+        "humano": 2.995732273553991,
+        "interações": 2.995732273553991,
+        "econômicas": 2.995732273553991,
+        "comparação": 2.995732273553991,
+        "implicações": 2.302585092994046,
+        "econômico": 2.995732273553991,
+        "perante": 2.995732273553991,
+        "exposto": 2.995732273553991,
+        "técnica": 2.302585092994046,
+        "aborda": 2.302585092994046,
+        "evolução": 1.6094379124341003,
+        "iniciativas": 2.995732273553991,
+        "década": 2.995732273553991,
+        "contemporâneas": 2.995732273553991,
+        "convergências": 2.995732273553991,
+        "divergências": 2.995732273553991,
+        "identificando": 2.995732273553991,
+        "pilares": 2.995732273553991,
+        "mecanismos": 2.995732273553991,
+        "cunho": 2.995732273553991,
+        "descritivo": 2.995732273553991,
+        "científicos": 2.995732273553991,
+        "must": 2.995732273553991,
+        "university": 2.995732273553991,
+        "explora": 2.302585092994046,
+        "trajetória": 2.995732273553991,
+        "advento": 2.995732273553991,
+        "unificou": 2.995732273553991,
+        "estabeleceu": 2.995732273553991,
+        "detalha": 2.995732273553991,
+        "destacando": 2.995732273553991,
+        "inspirada": 2.302585092994046,
+        "modelo": 2.995732273553991,
+        "fiscalização": 2.995732273553991,
+        "prossegue": 2.995732273553991,
+        "ressaltando": 2.995732273553991,
+        "diferenças": 2.995732273553991,
+        "prazos": 2.995732273553991,
+        "compartilham": 2.995732273553991,
+        "transparência": 2.995732273553991,
+        "retificação": 2.995732273553991,
+        "residem": 2.995732273553991,
+        "status": 2.995732273553991,
+        "operacional": 2.995732273553991,
+        "autoridades": 2.995732273553991,
+        "reguladoras": 2.995732273553991,
+        "anpd": 2.995732273553991,
+        "versus": 2.995732273553991,
+        "dpas": 2.995732273553991,
+        "europeias": 2.995732273553991,
+        "convergem": 2.995732273553991,
+        "objetivos": 2.995732273553991,
+        "fortemente": 2.995732273553991,
+        "sucesso": 2.995732273553991,
+        "dependerá": 2.995732273553991,
+        "crucialmente": 2.995732273553991,
+        "plena": 2.995732273553991,
+        "operacionalização": 2.995732273553991,
+        "independência": 2.995732273553991,
+        "garantindo": 2.995732273553991,
+        "eficaz": 2.995732273553991,
+        "imparcial": 2.995732273553991,
+        "harmonize": 2.995732273553991,
+        "avanço": 2.995732273553991,
+        "informatização": 2.995732273553991,
+        "tecnológico": 2.995732273553991,
+        "gerou": 2.995732273553991,
+        "manipulação": 2.995732273553991,
+        "transferência": 2.995732273553991,
+        "promove": 2.995732273553991,
+        "crescentes": 2.995732273553991,
+        "culminando": 2.995732273553991,
+        "criação": 2.995732273553991,
+        "executando": 2.995732273553991,
+        "artefatos": 2.995732273553991,
+        "organizacionais": 2.995732273553991,
+        "úteis": 2.995732273553991,
+        "promover": 2.995732273553991,
+        "regulamentação": 2.995732273553991,
+        "técnicas": 2.302585092994046,
+        "correlação": 2.995732273553991,
+        "coletados": 2.302585092994046,
+        "permitiram": 2.995732273553991,
+        "sugestão": 2.995732273553991,
+        "executar": 2.995732273553991,
+        "eficientes": 2.995732273553991,
+        "delinear": 2.995732273553991,
+        "causados": 2.995732273553991,
+        "trabalhistas": 2.995732273553991,
+        "ótica": 2.995732273553991,
+        "constitucional": 2.995732273553991,
+        "trabalhadores": 2.995732273553991,
+        "conceituar": 2.995732273553991,
+        "institutos": 2.995732273553991,
+        "sujeitos": 2.995732273553991,
+        "trazidos": 2.995732273553991,
+        "norma": 2.995732273553991,
+        "considerados": 2.995732273553991,
+        "essenciais": 2.995732273553991,
+        "retratado": 2.995732273553991,
+        "sucinta": 2.995732273553991,
+        "fases": 2.995732273553991,
+        "contrato": 2.995732273553991,
+        "destaque": 2.995732273553991,
+        "cuidados": 2.995732273553991,
+        "tomados": 2.995732273553991,
+        "eliminação": 2.995732273553991,
+        "observou": 2.995732273553991,
+        "imposições": 2.995732273553991,
+        "oriundas": 2.995732273553991,
+        "cuja": 2.995732273553991,
+        "ordenamento": 2.995732273553991,
+        "jurídico": 2.995732273553991,
+        "brasileiro": 2.302585092994046,
+        "ocorreuem": 2.995732273553991,
+        "general": 2.995732273553991,
+        "data": 2.302585092994046,
+        "protection": 2.995732273553991,
+        "regulation": 2.995732273553991,
+        "ademais": 2.995732273553991,
+        "apertada": 2.995732273553991,
+        "síntese": 2.995732273553991,
+        "asatribuições": 2.995732273553991,
+        "teletrabalho": 2.995732273553991,
+        "trabalhista": 2.995732273553991,
+        "enquanto": 2.995732273553991,
+        "preservar": 2.995732273553991,
+        "empregados": 2.995732273553991,
+        "estabelecer": 2.995732273553991,
+        "condutas": 2.995732273553991,
+        "serem": 2.995732273553991,
+        "aplicadas": 2.995732273553991,
+        "casos": 2.995732273553991,
+        "concretos": 2.995732273553991,
+        "prevenir": 2.995732273553991,
+        "sujeição": 2.995732273553991,
+        "administrativas": 2.995732273553991,
+        "vigerão": 2.995732273553991,
+        "2021": 2.995732273553991,
+        "reporta": 2.995732273553991,
+        "noções": 2.995732273553991,
+        "adequado": 2.995732273553991,
+        "requer": 2.995732273553991,
+        "organizacional": 2.995732273553991,
+        "destaca": 2.995732273553991,
+        "várias": 2.995732273553991,
+        "ferramentas": 2.995732273553991,
+        "desempenham": 2.995732273553991,
+        "papel": 2.995732273553991,
+        "gerenciamento": 2.995732273553991,
+        "incluem-se": 2.995732273553991,
+        "dms": 2.995732273553991,
+        "catalogar": 2.995732273553991,
+        "monitorar": 2.995732273553991,
+        "anonimização": 2.995732273553991,
+        "pseudonimização": 2.995732273553991,
+        "proteger": 2.995732273553991,
+        "plataformas": 2.995732273553991,
+        "preferências": 2.995732273553991,
+        "soluções": 2.995732273553991,
+        "criptografia": 2.302585092994046,
+        "auditoria": 2.995732273553991,
+        "avançadas": 2.995732273553991,
+        "big": 2.995732273553991,
+        "machine": 2.995732273553991,
+        "learning": 2.995732273553991,
+        "empregadas": 2.995732273553991,
+        "melhorar": 2.995732273553991,
+        "design": 2.995732273553991,
+        "interseção": 2.995732273553991,
+        "descoberta": 2.995732273553991,
+        "eletrônica": 2.995732273553991,
+        "ediscovery": 2.995732273553991,
+        "fornecendo": 2.995732273553991,
+        "cenário": 2.995732273553991,
+        "constante": 2.995732273553991,
+        "adotou-se": 2.995732273553991,
+        "documental": 2.995732273553991,
+        "hipotético-dedutivo": 2.995732273553991,
+        "apontar": 2.995732273553991,
+        "contribuições": 2.995732273553991,
+        "arquivologia": 2.995732273553991,
+        "especificamente": 2.995732273553991,
+        "documentos": 2.995732273553991,
+        "gd": 2.995732273553991,
+        "implantação": 2.995732273553991,
+        "utiliza": 2.995732273553991,
+        "procedimento": 2.995732273553991,
+        "metodológico": 2.995732273553991,
+        "natureza": 2.995732273553991,
+        "qualitativa": 2.995732273553991,
+        "tipo": 2.995732273553991,
+        "conclui": 2.995732273553991,
+        "dominado": 2.995732273553991,
+        "arquivista": 2.995732273553991,
+        "efetivamente": 2.995732273553991,
+        "tecnológica": 2.995732273553991,
+        "privadas": 2.995732273553991,
+        "consonância": 2.995732273553991,
+        "trata-se": 2.995732273553991,
+        "ambas": 2.995732273553991,
+        "proporcionar": 2.995732273553991,
+        "bibliográficos": 2.995732273553991,
+        "biblioteca": 2.995732273553991,
+        "virtual": 2.995732273553991,
+        "saúde-": 2.995732273553991,
+        "bvs": 2.995732273553991,
+        "externos": 2.995732273553991,
+        "utilizamos": 2.995732273553991,
+        "criptografados": 2.995732273553991,
+        "setor": 2.995732273553991,
+        "privado": 2.995732273553991,
+        "construção": 2.995732273553991,
+        "incluídos": 2.995732273553991,
+        "tratavam": 2.995732273553991,
+        "surgimento": 2.995732273553991,
+        "cibernética": 2.995732273553991,
+        "critério": 2.995732273553991,
+        "exclusão": 2.995732273553991,
+        "eliminamos": 2.995732273553991,
+        "ramo": 2.995732273553991,
+        "escritos": 2.995732273553991,
+        "datas": 2.995732273553991,
+        "abaixo": 2.995732273553991,
+        "2015": 2.995732273553991,
+        "leis": 2.995732273553991,
+        "brasileiras": 2.995732273553991,
+        "elaboradas": 2.995732273553991,
+        "condiz": 2.995732273553991,
+        "estado": 2.995732273553991,
+        "vulneráveis": 2.995732273553991,
+        "espionagem": 2.995732273553991,
+        "ataques": 2.995732273553991,
+        "hackers": 2.995732273553991,
+        "evidenciado": 2.995732273553991,
+        "divulgações": 2.995732273553991,
+        "áudios": 2.995732273553991,
+        "poderes": 2.995732273553991,
+        "narrativas": 2.995732273553991,
+        "justificamos": 2.995732273553991,
+        "aumento": 2.995732273553991,
+        "investimento": 2.995732273553991,
+        "setores": 2.995732273553991,
+        "tl": 2.995732273553991,
+        "corporativo": 2.995732273553991,
+        "tomando": 2.995732273553991,
+        "terceiros": 2.995732273553991,
+        "prospere": 2.995732273553991,
+        "medida": 2.995732273553991,
+        "defesa": 2.995732273553991,
+        "ameaças": 2.995732273553991,
+        "cibernéticas": 2.995732273553991,
+        "complexo": 2.995732273553991,
+        "adotam": 2.995732273553991,
+        "protegem": 2.995732273553991,
+        "colaboradores": 2.995732273553991,
+        "posicionam-se": 2.995732273553991,
+        "líderes": 2.995732273553991
+    }
+}
